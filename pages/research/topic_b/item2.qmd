@@ -2,18 +2,7 @@
 title: "Who Cares About Crackdowns? Exploring the Role of Trust in Individual Philanthropy"
 date: 2021-04-27
 layout: article
-author:
-  - name: Suparna Chaudhry
-    url: http://www.suparnachaudhry.com/
-    orcid: 0000-0003-3506-7590
-    affiliation: Lewis & Clark College
-  - name: Marc Dotson
-    url: https://marriottschool.byu.edu/directory/details?id=50683
-    affiliation: Marriott School of Business, Brigham Young University
-  - name: Andrew Heiss
-    url: https://www.andrewheiss.com/
-    orcid: 0000-0002-3948-3914
-    affiliation: Andrew Young School of Policy Studies, Georgia State University
+image: images/default.jpg
 categories:
   - Philanthropy
   - Experiment
@@ -21,8 +10,6 @@ categories:
   - Simulation
   - Bayes
   - INGOs
-doi: '<a href=https://doi.org/10.1111/1758-5899.12984>DOI: 10.1111/1758-5899.12984</a>'
-url: '<h5><a href=https://doi.org/10.1111/1758-5899.12984><i class="bi bi-file-earmark-text" style="text-decoration-line: underline;">Paper</i></a></h5>'
 ---
 
 ## Abstract
@@ -33,7 +20,7 @@ The phenomenon of closing civic space has adversely impacted INGO funding. We ar
 ::: {.column-margin}
 <div class="buttons" style="text-align:center;">
 
-<h4><a href=https://doi.org/10.1111/1758-5899.12984><i class="bi bi-file-earmark-text"> Paper</i></a></h4>
+<h4><a href=https://doi.org/10.1111/1758-5899.12984><i class="bi bi-file-earmark-text"> Pre-print</i></a></h4>
 
 <h4><a href=https://github.com><i class="bi bi-github">Code</i>
 </a></h4>

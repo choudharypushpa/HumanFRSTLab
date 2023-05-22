@@ -21,8 +21,7 @@ categories:
   - Simulation
   - Bayes
   - INGOs
-doi: '<a href=https://doi.org/10.1111/1758-5899.12984>DOI: 10.1111/1758-5899.12984</a>'
-url: '<h5><a href=https://doi.org/10.1111/1758-5899.12984><i class="bi bi-file-earmark-text" style="text-decoration-line: underline;">Paper</i></a></h5>'
+
 ---
 
 ## Abstract
@@ -33,7 +32,7 @@ The phenomenon of closing civic space has adversely impacted INGO funding. We ar
 ::: {.column-margin}
 <div class="buttons" style="text-align:center;">
 
-<h4><a href=https://doi.org/10.1111/1758-5899.12984><i class="bi bi-file-earmark-text"> Paper</i></a></h4>
+<h4><a href=https://doi.org/10.1111/1758-5899.12984><i class="bi bi-file-earmark-text"> Pre-print</i></a></h4>
 
 <h4><a href=https://github.com><i class="bi bi-github">Code</i>
 </a></h4>

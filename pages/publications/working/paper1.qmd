@@ -23,7 +23,7 @@ categories:
   - INGOs
 
 doi: '<a href=https://doi.org/10.1111/1758-5899.12984>DOI: 10.1111/1758-5899.12984</a>'
-preprint: '<h5><a href=https://doi.org/10.1111/1758-5899.12984><i class="bi bi-file-earmark-text" style="color:blue">Pre-print</i></a></h5>'
+preprint: '<h5><a href=https://doi.org/10.1111/1758-5899.12984><i class="bi bi-file-earmark-text" style="text-decoration-line: underline;">Pre-print</i></a></h5>'
 ---
 
 ## Abstract

@@ -5,10 +5,10 @@ website:
   title: "HumanFRST Lab"
   navbar:
     left:
-      - pages/research.qmd
       - pages/team/index.qmd
+      - pages/research/index.qmd
       - pages/publications/index.qmd
-      - pages/posts.qmd
+      - pages/posts/index.qmd
       - pages/contact.qmd
       - pages/opportunities.qmd
     right:
