@@ -1,0 +1,59 @@
+---
+title: "Who Cares About Crackdowns? Exploring the Role of Trust in Individual Philanthropy"
+date: 2021-04-27
+layout: article
+author:
+  - name: Suparna Chaudhry
+    url: http://www.suparnachaudhry.com/
+    orcid: 0000-0003-3506-7590
+    affiliation: Lewis & Clark College
+  - name: Marc Dotson
+    url: https://marriottschool.byu.edu/directory/details?id=50683
+    affiliation: Marriott School of Business, Brigham Young University
+  - name: Andrew Heiss
+    url: https://www.andrewheiss.com/
+    orcid: 0000-0002-3948-3914
+    affiliation: Andrew Young School of Policy Studies, Georgia State University
+categories:
+  - Philanthropy
+  - Experiment
+  - Conjoint analysis
+  - Simulation
+  - Bayes
+  - INGOs
+doi: '<a href=https://doi.org/10.1111/1758-5899.12984>DOI: 10.1111/1758-5899.12984</a>'
+url: '<h5><a href=https://doi.org/10.1111/1758-5899.12984><i class="bi bi-file-earmark-text" style="color:blue">Paper</i></a></h5>'
+---
+
+## Abstract
+
+The phenomenon of closing civic space has adversely impacted INGO funding. We argue that individual private donors can be important in sustaining the operations of INGOs working in repressive contexts. Individual donors do not use the same performance-based metrics as official aid donors. Rather, trust can be an important component of individual donor support for nonprofits working towards difficult goals. How does trust in charitable organizations influence individuals’ preferences to donate, especially when these groups face crackdown? Using a simulated market for philanthropic donations based on data from a nationally representative sample of individuals in the United States who regularly donate to charity, we find that trust in INGOs matters substantially in shaping donor preferences. Donor profiles with high levels of social trust are likely to donate to INGOs with friendly relationships with host governments. This support holds steady if INGOs face criticism or crackdown. In contrast, donor profiles with lower levels of social trust prefer to donate to organizations that do not face criticism or crackdown abroad. The global crackdown on NGOs may thus possibly sour NGOs’ least trusting individual donors. Our findings have practical implications for INGOs raising funds from individuals amid closing civic space.
+
+
+::: {.column-margin}
+<div class="buttons" style="text-align:center;">
+
+<h4><a href=https://doi.org/10.1111/1758-5899.12984><i class="bi bi-file-earmark-text"> Paper</i></a></h4>
+
+<h4><a href=https://github.com><i class="bi bi-github">Code</i>
+</a></h4>
+
+<h4><a target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1111/1758-5899.12984">Add to Zotero</a></h4>
+
+</div>
+
+:::
+
+## Citation
+```bibtex
+@article{ChaudhryDotsonHeiss:2021,
+    Author = {Suparna Chaudhry and Marc Dotson and Andrew Heiss},
+    Doi = {10.1111/1758-5899.12984},
+    Journal = {Global Policy},
+    Month = {7},
+    Number = {S5},
+    Pages = {45--58},
+    Title = {Who Cares About Crackdowns? Exploring the Role of Trust in Individual Philanthropy},
+    Volume = {12},
+    Year = {2021}}
+```

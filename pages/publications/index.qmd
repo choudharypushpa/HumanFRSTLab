@@ -1,0 +1,34 @@
+---
+title: "Publications"
+listing:
+  - id: working-papers
+    contents: "working"
+    sort: "date desc"
+    # template: listing.ejs
+    fields: [date, author, title, categories, description, preprint]
+  - id: published
+    contents: "published"
+    sort: "date desc"
+    # template: listing.ejs
+    categories: true
+    sort-ui: false
+    filter-ui: true
+    fields: [date, author, title, categories, description, doi, url]
+page-layout: full
+title-block-banner: false
+---
+
+This is the list of publications.
+
+## Working papers
+
+:::{#working-papers}
+:::
+
+
+## Journal articles
+
+:::{#published}
+:::
+
+

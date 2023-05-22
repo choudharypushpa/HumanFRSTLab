@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "HumanFRST Lab"
+  navbar:
+    left:
+      - pages/research.qmd
+      - pages/team/index.qmd
+      - pages/publications/index.qmd
+      - pages/posts.qmd
+      - pages/contact.qmd
+      - pages/opportunities.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme:
+      light: lumen
+      dark: solar
+    css: styles.css
+
+
+
