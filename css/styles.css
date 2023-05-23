@@ -1,0 +1,7 @@
+/* css styles */
+div.hide-metadata div.quarto-post div.metadata {
+    display: none;
+}
+
+.table .table-striped
+

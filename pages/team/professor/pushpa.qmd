@@ -4,12 +4,8 @@ categories: "ASSISTANT PROFESSOR"
 tags: []
 pub_tag: "pushpa"
 image: "../images/default.jpg"
-page-layout: full
 about:
   id: hero-heading
-  template: solana
-  image-shape: rounded
-  image-width: 15em
   links:
     - icon: person
       text: Institute Page
@@ -31,21 +27,23 @@ about:
       href: https://github.com
 ---
 
-:::{#hero-heading}
+::: {#hero-heading}
+:::
+
+This will apear here.
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+| col1                                | col2                             | col3                  |
+|------------------------|------------------------|------------------------|
+| University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015 |
+| Macalester College                  | St. Paul MA B.A in Economics     | Sept 2007 - June 2011 |
+: This is a table
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-:::
-
+| col1            | col2                | col3                   |
+|-----------------|---------------------|------------------------|
+| Wengo Analytics | Head Data Scientist | April 2018 - present   |
+| GeoScynce       | Chief Analyst       | Sept 2012 - April 2018 |

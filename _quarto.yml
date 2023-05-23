@@ -18,10 +18,10 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme:
-      light: lumen
-      dark: solar
-    css: styles.css
+    theme: solar
+      # light: journal
+      # dark: [solar, dark-style.css] # united # simplex # journal
+    css: [css/styles.css, css/dark-styles.css]
 
 
 

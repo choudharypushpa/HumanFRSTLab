@@ -25,7 +25,7 @@ listing:
     field-display-names:
       page: "Published"
 
-page-layout: full
+page-layout: article
 ---
 
 This is the list of publications.
@@ -34,7 +34,7 @@ This is the list of publications.
 This is description.
 Following are the items:
 
-:::{#TopicA}
+:::{#TopicA .hide-metadata}
 :::
 
 
@@ -42,7 +42,7 @@ Following are the items:
 This is description.
 Following are the items:
 
-:::{#TopicB}
+:::{#TopicB .hide-metadata}
 :::
 
 

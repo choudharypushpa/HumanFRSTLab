@@ -2,3 +2,8 @@
 toc: true
 toc-title: Contents
 toc-location: right
+page-layout: article
+about:
+  template: solana
+  image-shape: rounded
+  image-width: 15em

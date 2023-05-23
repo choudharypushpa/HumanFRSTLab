@@ -14,7 +14,7 @@ listing:
     sort-ui: false
     filter-ui: true
     fields: [date, author, title, categories, description, doi, url]
-page-layout: full
+page-layout: article
 ---
 
 This is the list of publications.
