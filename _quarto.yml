@@ -9,6 +9,7 @@ website:
       - pages/research/index.qmd
       - pages/publications/index.qmd
       - pages/posts/index.qmd
+      - pages/resources/index.qmd
       - pages/contact.qmd
       - pages/opportunities.qmd
     right:
@@ -19,9 +20,16 @@ website:
 format:
   html:
     theme: solar
-      # light: journal
-      # dark: [solar, dark-style.css] # united # simplex # journal
-    css: [css/styles.css, css/dark-styles.css]
+    # theme:
+    #   light: journal
+    #   dark: [solar, dark-style.css] # united # simplex # journal
 
+    css: [css/styles.css, css/dark-styles.css]
+    header-includes: |
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Rokkitt&display=swap" rel="stylesheet">
+mainfont: Rokkitt
+fontsize: 1.1em
 
 

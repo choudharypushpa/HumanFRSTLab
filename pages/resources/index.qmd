@@ -1,0 +1,24 @@
+---
+title: "Resources"
+listing:
+  - id: resources
+    contents: "topics"
+    sort: "date desc"
+    type: default
+    # template: listing.ejs
+    categories: true
+    sort-ui: false
+    filter-ui: true
+    fields: [title, categories, description, image, date]
+
+page-layout: article
+---
+
+This is the list of resources.
+
+:::{#resources .hide-metadata}
+:::
+
+
+
+

@@ -3,5 +3,6 @@ div.hide-metadata div.quarto-post div.metadata {
     display: none;
 }
 
-.table .table-striped
-
+section.page-columns p {
+    text-align: justify;
+}
