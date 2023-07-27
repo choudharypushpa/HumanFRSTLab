@@ -19,17 +19,17 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: solar
-    # theme:
-    #   light: journal
-    #   dark: [solar, dark-style.css] # united # simplex # journal
+    theme:
+      light: [cosmo, css/light-styles.scss]
+      dark: [solar, css/dark-styles.scss] # united # simplex # journal
 
-    css: [css/styles.css, css/dark-styles.css]
+    css: [css/styles.css]
     header-includes: |
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
       <link href="https://fonts.googleapis.com/css2?family=Rokkitt&display=swap" rel="stylesheet">
-mainfont: Rokkitt
-fontsize: 1.1em
+
+    mainfont: Rokkitt
+    fontsize: 1.1em
 
 

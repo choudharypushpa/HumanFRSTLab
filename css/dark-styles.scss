@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+
+
+/*-- scss:rules --*/
+div.quarto-category, div.metadata-value a {
+    color: var(--bs-success) !important;
+}
+.table, tr {
+	caption-side: bottom;
+	border: hidden;
+}
