@@ -6,17 +6,17 @@ website:
   navbar:
     left:
       - pages/team/index.qmd
-      - pages/research/index.qmd
-      - pages/publications/index.qmd
-      - pages/posts/index.qmd
-      - pages/resources/index.qmd
+      # - pages/research/index.qmd
+      # - pages/publications/index.qmd
+      # - pages/posts/index.qmd
+      # - pages/resources/index.qmd
       - pages/contact.qmd
-      - pages/opportunities.qmd
-    right:
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      # - pages/opportunities.qmd
+    # right:
+    #   - icon: github
+    #     href: https://github.com/
+    #   - icon: twitter
+    #     href: https://twitter.com
 format:
   html:
     theme:

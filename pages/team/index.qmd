@@ -9,13 +9,6 @@ listing:
     # image-height: 200px
     categories: true
     filter-ui: false
-  - id: phd
-    contents: "phd"
-    sort: "title"
-    type: default
-    # image-height: 200px
-    categories: true
-    filter-ui: true
 page-layout: article
 ---
 :::
@@ -27,7 +20,3 @@ This is the list of members.
 ::: {#professor .hide-metadata}
 :::
 
-## Ph. D. Scholar
-
-::: {#phd .hide-metadata}
-:::
