@@ -1,6 +1,6 @@
 ---
 title: "Mohammad Hamidi"
-categories: "MTech Students"
+categories: "M. Tech. Student"
 tags: []
 pub_tag: "Hamidi"
 #image: "../images/default.jpg"

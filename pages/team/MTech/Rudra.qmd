@@ -1,6 +1,6 @@
 ---
 title: "Rudra Kapruwan"
-categories: "MTech Students"
+categories: "M. Tech. Student"
 tags: []
 pub_tag: "Rudra"
 #image: "../images/default.jpg"

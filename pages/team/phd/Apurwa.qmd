@@ -1,6 +1,6 @@
 ---
 title: "Apurwa Dhoke"
-categories: "Ph. D. Students"
+categories: "Ph. D. Student"
 tags: []
 pub_tag: "Apurwa"
 #image: "../images/default.jpg"

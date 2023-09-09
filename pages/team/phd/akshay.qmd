@@ -1,6 +1,6 @@
 ---
 title: "Akshay Gupta"
-categories: "Ph. D. Students"
+categories: "Ph. D. Student"
 tags: []
 pub_tag: "akshay"
 #image: "../images/default.jpg"

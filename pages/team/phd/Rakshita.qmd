@@ -1,6 +1,6 @@
 ---
 title: "Rakshita Sharma"
-categories: "Ph. D. Students"
+categories: "Ph. D. Student"
 tags: []
 pub_tag: "Rakshita"
 #image: "../images/default.jpg"

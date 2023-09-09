@@ -1,6 +1,6 @@
 ---
 title: "Shivam Sharma"
-categories: "Ph. D. Students"
+categories: "Ph. D. Student"
 tags: []
 pub_tag: "Shivam"
 #image: "../images/default.jpg"

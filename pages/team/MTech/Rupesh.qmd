@@ -1,6 +1,6 @@
 ---
 title: "Rupesh Kumar Yadav"
-categories: "MTech Students"
+categories: "M. Tech. Student"
 tags: []
 pub_tag: "Rupesh"
 #image: "../images/default.jpg"

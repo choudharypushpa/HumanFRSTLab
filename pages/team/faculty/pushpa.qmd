@@ -1,12 +1,11 @@
 ---
 title: "Dr. Pushpa Choudhary"
-image: "/Pushpa.jpg"
+image: "/assets/team/Pushpa.jpg"
 categories: "Faculty"
 tags: []
 pub_tag: "pushpa"
 
 about:
-  id: hero-heading
   links:
     - icon: person
       text: Institute Page
@@ -21,29 +20,31 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/pushpa-choudhary-350b5aa1/
 ---
-
+:::{#hero-heading}
 Assitant Professor,<br>
 Transportation Engineering,<br>
 Civil Engineering Department,<br>
 Indian Institute of Technology Roorkee, Rookee-247667, India
+:::
 
-
-## Resaerch Interests
-Human Factors in road safety <br>
-Intelligent Transportation Systems <br>
-Risk assesment and statistical modelling 
-
-
+## Research Interests
+:::{.no-bullets}
+- Human Factors in road safety
+- Intelligent Transportation Systems
+- Risk assesment and statistical modelling
+:::
 
 ## Experience
-| Organisation           |   Designation                        | Period                  |
-|------------------------|------------------------|------------------------|
-| IIT Roorkee | Assistant Professor | Oct 2019 - till now |
-| IIT Bombay  | Research Associate    | May 2019 - Sep 2011 |
+| Organisation | Designation | Period |
+|----|--|--|
+| Indian Institute of Technology Roorkee | Assistant Professor | Oct 2019 - Present |
+| Indian Institute of Technology Bombay  | Research Associate | May 2019 - Sep 2011 |
 
 
 ## Education
-PhD, Civil Engineering (Transportation Systems Engineering), IIT Bombay, 2019
-<br>
-BTech, Civil Engineering, MNIT Jaipur, 2014
-
+:::{.unequal-columns}
+||||
+|------|--|--|
+|Doctor of Philosophy, Civil Engineering <br>(Transportation Systems Engineering)| IIT Bombay | 2019|
+|Bachelor of Technology, Civil Engineering| MNIT Jaipur| 2014|
+:::

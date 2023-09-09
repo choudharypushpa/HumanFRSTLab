@@ -7,3 +7,32 @@ section.page-columns p {
     text-align: justify;
 }
 
+.img-outline {
+    border: 1px solid #000000;
+    padding: 1px;
+}
+
+.center {
+    text-align: center;
+}
+
+.no-bullets ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.unequal-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.hero-highlight {
+    color: var(--bs-primary);
+}
+
+.gmap {
+    width: 100%;
+    min-height: 300px;
+}

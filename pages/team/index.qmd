@@ -1,35 +1,40 @@
-::: hide-metadata
 ---
 title: "Team"
 listing:
-  - id: professor
-    contents: "professor"
+  - id: faculty
+    contents: "faculty"
     sort: "title"
     type: default
-    # image-height: 200px
     categories: true
     filter-ui: false
   - id: phd
     contents: "phd"
     sort: "title"
     type: default
-    # image-height: 200px
     categories: true
-    filter-ui: false  
-  - id: MTech
-    contents: "MTech"
+    filter-ui: false
+  - id: mtech
+    contents: "mtech"
     sort: "title"
     type: default
-    # image-height: 200px
     categories: true
-    filter-ui: false  
+    filter-ui: false
+
 page-layout: article
 ---
+
+The team at the <a style="color:none" href="/">{{< var group.name >}}</a> is a diverse group of researchers and students from various backgrounds. We are a team of 10+ members, including faculty, Ph. D. students, and M. Tech. students.
+
+## Faculty
+:::{#faculty}
 :::
 
+## Ph. D. Students
+:::{#phd}
+:::
 
-
-
-
+## M. Tech. Students
+:::{#mtech}
+:::
 
 

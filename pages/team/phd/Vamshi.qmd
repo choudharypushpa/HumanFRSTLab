@@ -1,6 +1,6 @@
 ---
 title: "K Vamshi Krishna"
-categories: "Ph. D. Students"
+categories: "Ph. D. Student"
 tags: []
 pub_tag: "Vamshi"
 #image: "../images/default.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Abhishek Kumar Singh"
-categories: "MTech Students"
+categories: "M. Tech. Student"
 tags: []
 pub_tag: "Abhishek"
 #image: "../images/default.jpg"
