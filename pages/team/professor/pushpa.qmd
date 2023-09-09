@@ -1,49 +1,49 @@
 ---
-title: "Pushpa Choudhary"
-categories: "ASSISTANT PROFESSOR"
+title: "Dr. Pushpa Choudhary"
+image: "/Pushpa.jpg"
+categories: "Faculty"
 tags: []
 pub_tag: "pushpa"
-image: "../images/default.jpg"
+
 about:
   id: hero-heading
   links:
     - icon: person
       text: Institute Page
-      href: https://orcid.com
+      href: https://civil.iitr.ac.in/CE?Uid=pushpafce
     - icon: person
       text: ORCID
-      href: https://orcid.com
+      href: https://orcid.org/0000-0003-4217-0705
     - icon: book
       text: Google Scholar
-      href: https://scholar.google.com/
+      href: https://scholar.google.co.in/citations?user=unUZoZAAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
+      href: https://www.linkedin.com/in/pushpa-choudhary-350b5aa1/
 ---
 
-::: {#hero-heading}
-:::
+Assitant Professor,<br>
+Transportation Engineering,<br>
+Civil Engineering Department,<br>
+Indian Institute of Technology Roorkee, Rookee-247667, India
 
-This will apear here.
 
-## Education
+## Resaerch Interests
+Human Factors in road safety <br>
+Intelligent Transportation Systems <br>
+Risk assesment and statistical modelling 
 
-| col1                                | col2                             | col3                  |
-|------------------------|------------------------|------------------------|
-| University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015 |
-| Macalester College                  | St. Paul MA B.A in Economics     | Sept 2007 - June 2011 |
-: This is a table
 
 
 ## Experience
+| Organisation           |   Designation                        | Period                  |
+|------------------------|------------------------|------------------------|
+| IIT Roorkee | Assistant Professor | Oct 2019 - till now |
+| IIT Bombay  | Research Associate    | May 2019 - Sep 2011 |
 
-| col1            | col2                | col3                   |
-|-----------------|---------------------|------------------------|
-| Wengo Analytics | Head Data Scientist | April 2018 - present   |
-| GeoScynce       | Chief Analyst       | Sept 2012 - April 2018 |
+
+## Education
+PhD, Civil Engineering (Transportation Systems Engineering), IIT Bombay, 2019
+<br>
+BTech, Civil Engineering, MNIT Jaipur, 2014
+

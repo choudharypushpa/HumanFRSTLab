@@ -1,46 +1,32 @@
 ---
-title: "Who Cares About Crackdowns? Exploring the Role of Trust in Individual Philanthropy"
-date: 2021-04-27
-layout: article
-image: images/default.jpg
-categories:
-  - Philanthropy
-  - Experiment
-  - Conjoint analysis
-  - Simulation
-  - Bayes
-  - INGOs
+title: "Research Areas"
+layout: section
+
+
 ---
-
-## Abstract
-
-The phenomenon of closing civic space has adversely impacted INGO funding. We argue that individual private donors can be important in sustaining the operations of INGOs working in repressive contexts. Individual donors do not use the same performance-based metrics as official aid donors. Rather, trust can be an important component of individual donor support for nonprofits working towards difficult goals. How does trust in charitable organizations influence individuals’ preferences to donate, especially when these groups face crackdown? Using a simulated market for philanthropic donations based on data from a nationally representative sample of individuals in the United States who regularly donate to charity, we find that trust in INGOs matters substantially in shaping donor preferences. Donor profiles with high levels of social trust are likely to donate to INGOs with friendly relationships with host governments. This support holds steady if INGOs face criticism or crackdown. In contrast, donor profiles with lower levels of social trust prefer to donate to organizations that do not face criticism or crackdown abroad. The global crackdown on NGOs may thus possibly sour NGOs’ least trusting individual donors. Our findings have practical implications for INGOs raising funds from individuals amid closing civic space.
+## Research Areas
 
 
-::: {.column-margin}
-<div class="buttons" style="text-align:center;">
+|Naturalistic Driving Study
+| ---------------------- | ---------------------- |
+| ![NDS](/Lidar_data.gif) | ![NDS2](/Li_extract.jpg) |
 
-<h4><a href=https://doi.org/10.1111/1758-5899.12984><i class="bi bi-file-earmark-text"> Paper</i></a></h4>
+             
+|Pedestrian Vehicle interactions
+| ---------------------- | ---------------------- |
+| ![NDS](/vul1.jpg) | ![NDS2](/vul1.jpg) |
 
-<h4><a href=https://github.com><i class="bi bi-github">Code</i>
-</a></h4>
+             
+|Visaul Scnanning Behvaiour of Road users
+| ---------------------- | ---------------------- |
+| ![](/eye1.jpg) | ![](/eye2.jpg) |
 
-<h4><a target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1111/1758-5899.12984">Add to Zotero</a></h4>
+|Driver behaviour in complex road geomtery
+| ---------------------- | ---------------------- |
+| ![](/eye1.jpg) | ![](/eye2.jpg) |
 
-</div>
 
-:::
+|Risk assesment and statistical modelling
+| ---------------------- | ---------------------- |
+| ![](/stats1.JPG) | ![](/stats2.JPG) |
 
-## Citation
-```bibtex
-@article{ChaudhryDotsonHeiss:2021,
-    Author = {Suparna Chaudhry and Marc Dotson and Andrew Heiss},
-    Doi = {10.1111/1758-5899.12984},
-    Journal = {Global Policy},
-    Month = {7},
-    Number = {S5},
-    Pages = {45--58},
-    Title = {Who Cares About Crackdowns? Exploring the Role of Trust in Individual Philanthropy},
-    Volume = {12},
-    Year = {2021}}
-```

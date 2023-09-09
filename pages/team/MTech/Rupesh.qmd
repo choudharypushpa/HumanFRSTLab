@@ -1,0 +1,23 @@
+---
+title: "Rupesh Kumar Yadav"
+categories: "MTech Students"
+tags: []
+pub_tag: "Rupesh"
+#image: "../images/default.jpg"
+about:
+  id: hero-heading
+  links:
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+---
+
+:::{#hero-heading}
+**Topic:** Behavioural assessment of distracted pedestrians at different crossing facilities
+ <br>
+**Joined in** August, 2020
+:::
+

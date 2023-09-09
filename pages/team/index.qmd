@@ -9,14 +9,27 @@ listing:
     # image-height: 200px
     categories: true
     filter-ui: false
+  - id: phd
+    contents: "phd"
+    sort: "title"
+    type: default
+    # image-height: 200px
+    categories: true
+    filter-ui: false  
+  - id: MTech
+    contents: "MTech"
+    sort: "title"
+    type: default
+    # image-height: 200px
+    categories: true
+    filter-ui: false  
 page-layout: article
 ---
 :::
 
-This is the list of members.
 
-## Faculty
 
-::: {#professor .hide-metadata}
-:::
+
+
+
 

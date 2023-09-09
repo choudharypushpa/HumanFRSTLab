@@ -1,18 +1,12 @@
 ---
-title: "Akshay"
-categories: "Ph. D. Student"
+title: "Akshay Gupta"
+categories: "Ph. D. Students"
 tags: []
 pub_tag: "akshay"
-image: "../images/default.jpg"
+#image: "../images/default.jpg"
 about:
   id: hero-heading
   links:
-    - icon: person
-      text: Institute Page
-      href: https://orcid.com
-    - icon: person
-      text: ORCID
-      href: https://orcid.com
     - icon: book
       text: Google Scholar
       href: https://scholar.google.com/
@@ -23,19 +17,8 @@ about:
 
 :::{#hero-heading}
 
-## Education
-
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
+**Topic:** Comprehensive approach for crash risk assessment for expressways <br>
+**Joined in** December, 2019<br>
+**Co-Supervisor:** Prof Manoranjan Parida
 :::
 

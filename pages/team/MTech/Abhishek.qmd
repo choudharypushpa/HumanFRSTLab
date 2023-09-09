@@ -1,0 +1,24 @@
+---
+title: "Abhishek Kumar Singh"
+categories: "MTech Students"
+tags: []
+pub_tag: "Abhishek"
+#image: "../images/default.jpg"
+about:
+  id: hero-heading
+  links:
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+---
+
+:::{#hero-heading}
+
+**Topic:** A study on pedestrian crossing behavior at unsignalised intersections
+ <br>
+**Completed in** July, 2020
+:::
+
