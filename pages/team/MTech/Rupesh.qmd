@@ -16,8 +16,9 @@ about:
 ---
 
 :::{#hero-heading}
-**Topic:** Behavioural assessment of distracted pedestrians at different crossing facilities
+**Topic:** Evaluating Service Quality and Personal Attitudes as Predictors of Overall Satisfaction of Urban Buses 
  <br>
-**Joined in** August, 2020
+**Completed in** July, 2023<br>
+**Co-supervisor:** Prof Manoranjan Parida
 :::
 

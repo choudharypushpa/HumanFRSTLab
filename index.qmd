@@ -7,37 +7,63 @@ title-block-banner: true
 Description of the group.
 
 <!-- Two columns with image and description, total width 12 -->
+<hr>
+## Studies in Virtual Environment
+
 ::: {.grid}
-::: {.g-col-8}
-![](/assets/Connectedsim.jpg){.img-outline}
+::: {.g-col-7}
+![](/assets/Connectedsim.jpg){.img-outline height="250"}
+:::
+
+::: {.g-col-5}
+**Connected Simulator Setup:** A connected simulator enables an experimental set-up where two or more road users can interactively drive/walk in the same road scenario, simultaneously. In the _**connected simulator set-up present at IIT Roorkee**_, a pedestrian simulator, a two-wheeler simulator, and a four-wheeler and a bicycle simulator are connected to each other. The connected simulators can be operated individually or in a synchronised manner, making it **_one of its kind facilities in India_**. 
+:::
+:::
+
+<hr>
+
+::: {.grid}
+::: {.g-col-3}
+![](/assets/Car_vid.mov){.img-outline height="200"}
+:::
+
+::: {.g-col-3}
+![](/assets/Media1.mp4){.img-outline height="200"}
+:::
+
+::: {.g-col-3}
+![](/assets/Ped_vid.mov){.img-outline height="200"}
+:::
+
+::: {.g-col-3}
+![](/assets/Cycle_Vid.mp4){.img-outline height="200"}
+:::
+:::
+---
+## Studies in Naturalistic Environment
+<hr>
+
+<!-- Two columns with image and description -->
+::: {.grid}
+::: {.g-col-3}
+**heading:** It is a blah blah blah
 :::
 
 ::: {.g-col-4}
-**Connected Simulator Setup:** It is a blah blah blah
+![](/assets/Lidar_data.gif){height="200"}
+:::
+::: {.g-col-4}
+![](/assets/Lidar_data.gif){height="200"}
 :::
 :::
 
 <!-- Two columns with image and description -->
 ::: {.grid}
-::: {.g-col-4}
-**heading:** It is a blah blah blah
+::: {.g-col-5}
+![](/assets/Car_vid.mov){height="200"}
 :::
 
-::: {.g-col-8}
-![](/assets/Lidar_data.gif)
-:::
-:::
-
-<!-- Two columns with image and description -->
-::: {.grid}
-::: {.g-col-8}
-![](/assets/Media1.mp4)
-:::
-
-::: {.g-col-4}
+::: {.g-col-2}
 **heading:** It is a blah blah blah
 :::
 :::
-
-
-

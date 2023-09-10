@@ -3,7 +3,7 @@ title: "Apurwa Dhoke"
 categories: "Ph. D. Student"
 tags: []
 pub_tag: "Apurwa"
-#image: "../images/default.jpg"
+image: "/assets/team/Apurwa.jpg"
 about:
   id: hero-heading
   links:
@@ -19,5 +19,5 @@ about:
 **Topic:** Exploring pedestrian crossing behavior under various time pressure
 conditions
  <br>
-**Joined in** Februry, 2019
+**Joined in** February, 2019
 :::

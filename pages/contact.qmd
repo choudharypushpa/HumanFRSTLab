@@ -17,7 +17,7 @@ toc: false
 
 ---
 
-Some information about contacting me.
+**Here are the contact details if you are a prospective student or a professional wanting to collaborate.** 
 
 <hr>
 
@@ -28,7 +28,17 @@ Some information about contacting me.
 :::
 
 :::{.g-col-6}
-This is address.
+Dr. Pushpa Choudhary, <br>Room No. 321 A & B, <br> Civil Engineering Department, <br> IIT Roorkee, Roorkee-247667, India
+
+**Email**:<br>
+
+ -  <pushpa.fce@iitr.ac.in> 
+ -  <pushpa@ce.iitr.ac.in>
+
+**Phone**:<br>
+
+-  (+91) 01332-28-4925(O)
+-  (+91) 01332-28-6925 (R)
 :::
 
 :::

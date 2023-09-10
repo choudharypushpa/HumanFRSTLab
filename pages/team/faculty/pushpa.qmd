@@ -43,8 +43,34 @@ Indian Institute of Technology Roorkee, Rookee-247667, India
 
 ## Education
 :::{.unequal-columns}
-||||
+|Degree|Institute|Year|
 |------|--|--|
 |Doctor of Philosophy, Civil Engineering <br>(Transportation Systems Engineering)| IIT Bombay | 2019|
 |Bachelor of Technology, Civil Engineering| MNIT Jaipur| 2014|
+:::
+
+
+## Teaching
+:::{.unequal-columns}
+|Subject|Class|
+|------|--|
+|Intersection design and Control | UG+PG|
+|Transportation System Analysis | UG+PG|
+|Transportation studies and Analysis lab |PG Lab|
+|Engineering Graphics | UG|
+|Introduction to Civil Engineering | UG| 
+:::
+
+
+
+
+## Research Projects
+:::{.unequal-columns}
+|Research Project|Sponser|Amount|Role|Year|
+|------|--|--|--|--|
+|Pedestrian safety in mixed traffic conditions: Probing executable solutions to enhance vulnerable road users’ safety using a pedestrian simulator | SERB|31.9 Lakhs |PI |Dec 2020-June 2023|
+|Comprehensive approach for crash risk assessment of highspeed corridors in India | SRIC, IITR| 20 Lakhs|PI  | March 2020-March 2023|
+|Understanding Human Factors in Transportation using a connected simulator set-up  | SRIC, IITR|180 lakhs|PI  | March 2020-March 2023|
+|Advanced Transport Modelling and Simulation for National Highways in India |IAHE|419 Lakhs|Co-PI|Jan 2022-June 2025|
+
 :::

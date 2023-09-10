@@ -3,7 +3,7 @@ title: "Shivam Sharma"
 categories: "Ph. D. Student"
 tags: []
 pub_tag: "Shivam"
-#image: "../images/default.jpg"
+image: "/assets/team/Shivam.jpg"
 about:
   id: hero-heading
   links:

@@ -16,9 +16,9 @@ about:
 ---
 
 :::{#hero-heading}
-
 **Topic:** A study on pedestrian crossing behavior at unsignalised intersections
  <br>
-**Completed in** July, 2020
+**Completed in** July, 2020<br>
+**Co-supervisor:** Prof Rajat Rastogi
 :::
 

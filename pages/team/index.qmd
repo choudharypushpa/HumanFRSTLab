@@ -13,8 +13,8 @@ listing:
     type: default
     categories: true
     filter-ui: false
-  - id: mtech
-    contents: "mtech"
+  - id: MTech
+    contents: "MTech"
     sort: "title"
     type: default
     categories: true
@@ -34,7 +34,7 @@ The team at the <a style="color:none" href="/">{{< var group.name >}}</a> is a d
 :::
 
 ## M. Tech. Students
-:::{#mtech}
+:::{#MTech}
 :::
 
 

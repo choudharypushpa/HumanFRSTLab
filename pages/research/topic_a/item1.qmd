@@ -8,25 +8,26 @@ layout: section
 
 
 |Naturalistic Driving Study
-| ---------------------- | ---------------------- |
-| ![NDS](/Lidar_data.gif) | ![NDS2](/Li_extract.jpg) |
+| ---------------------- | ---------------------- |---------------------- |
+|![](/assets/NDS3.jpg){height="200px"}|![](/Lidar_data.gif){height="200px"} | ![](/Li_extract.jpg){height="200px"}| 
 
              
-|Pedestrian Vehicle interactions
+|Pedestrian-Vehicle interactions
 | ---------------------- | ---------------------- |
-| ![NDS](/vul1.jpg) | ![NDS2](/vul1.jpg) |
+| ![](/vul1.jpg){height="200px"} | ![](/assets/vul2.jpg){height="200px"}|
 
              
 |Visaul Scnanning Behvaiour of Road users
 | ---------------------- | ---------------------- |
-| ![](/eye1.jpg) | ![](/eye2.jpg) |
+|![](/assets/eye13.jpg){height="200px"}|![](/assets/eye12.jpg){height="200px"}|
+|![](/assets/eye21.jpg){height="200px"}|![](/assets/eye22.jpg){height="200px"}|
 
 |Driver behaviour in complex road geomtery
 | ---------------------- | ---------------------- |
-| ![](/eye1.jpg) | ![](/eye2.jpg) |
+|![](/assets/HILL1.jpg){height="200px"}|![](/assets/HILL2.jpg){height="200px"}|
 
 
 |Risk assesment and statistical modelling
 | ---------------------- | ---------------------- |
-| ![](/stats1.JPG) | ![](/stats2.JPG) |
+| ![](/stats1.JPG){height="200px"} | ![](/stats2.JPG){height="200px"} |
 
