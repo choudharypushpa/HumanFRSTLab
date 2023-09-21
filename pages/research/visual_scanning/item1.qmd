@@ -1,0 +1,33 @@
+---
+title: "Research Areas"
+layout: section
+
+
+---
+## Research Areas
+
+
+|Naturalistic Driving Study
+| ---------------------- | ---------------------- |---------------------- |
+|![](/assets/NDS3.jpg){height="200px"}|![](/Lidar_data.gif){height="200px"} | ![](/Li_extract.jpg){height="200px"}| 
+
+             
+|Pedestrian-Vehicle interactions
+| ---------------------- | ---------------------- |
+| ![](/vul1.jpg){height="200px"} | ![](/assets/vul2.jpg){height="200px"}|
+
+             
+|Visaul Scnanning Behvaiour of Road users
+| ---------------------- | ---------------------- |
+|![](/assets/eye13.jpg){height="200px"}|![](/assets/eye12.jpg){height="200px"}|
+|![](/assets/eye21.jpg){height="200px"}|![](/assets/eye22.jpg){height="200px"}|
+
+|Driver behaviour in complex road geomtery
+| ---------------------- | ---------------------- |
+|![](/assets/HILL1.jpg){height="200px"}|![](/assets/HILL2.jpg){height="200px"}|
+
+
+|Risk assesment and statistical modelling
+| ---------------------- | ---------------------- |
+| ![](/stats1.JPG){height="200px"} | ![](/stats2.JPG){height="200px"} |
+

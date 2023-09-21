@@ -1,50 +1,43 @@
 ---
 title: "Research"
-listing:
-  - id: TopicA
-    contents: "topic_a"
-    sort: "date desc"
-    type: default
-    # template: listing.ejs
-    categories: true
-    sort-ui: false
-    filter-ui: true
-    fields: [title, categories, description, image, date]
-    field-display-names:
-      page: "Published"
-
-  - id: TopicB
-    contents: "topic_b"
-    sort: "date desc"
-    type: default
-    # template: listing.ejs
-    categories: true
-    sort-ui: false
-    filter-ui: true
-    fields: [title, categories, description, image, date]
-    field-display-names:
-      page: "Published"
-
 page-layout: article
 ---
 
-This is the list of publications.
+## Research Areas
 
-## Topic A
-This is description.
-Following are the items:
+|Driver Behavioral Studies
+| ---------------------- | ---------------------- | ---------------------- |---------------------- |
+|Naturalistic driving studies||Driver behaviour in complex road geomtery||
+|![](/assets/NDS3.jpg){height="200px"}|![](/assets/sensors_NDS.PNG){height="200px"} | ![](/assets/HILL1.jpg){height="200px"}|![](/assets/HILL2.jpg){height="200px"}|
 
-:::{#TopicA .hide-metadata}
-:::
+             
+|Pedestrian-Vehicle Interactions
+| ---------------------- | ---------------------- | ---------------------- |---------------------- |
+|Effects of distraction on P-V interactions||Relation between time pressure and non-compliance||
+| ![](/vul1.jpg){height="200px"} | ![](/assets/vul2.jpg){height="200px"}| ![](/assets/PVI_4.png){height="200px"}|![](/assets//PVI_2.png){height="200px"}|
+
+             
+|Visaul Scnanning Behvaiour of Road Users
+| ---------------------- | ---------------------- | ---------------------- | ---------------------- |
+|Visual scanning of non-attentive road users||Strategic visual scanning at intersetions||
+|![](/assets/eye13.jpg){height="200px"}|![](/assets/eye12.jpg){height="200px"}|![](/assets/eye21.jpg){height="200px"}|![](/assets/eye22.jpg){height="200px"}|
 
 
-## Topic B
-This is description.
-Following are the items:
-
-:::{#TopicB .hide-metadata}
-:::
+|Data-driven Analysis  
+| ---------------------- | ---------------------- | ---------------------- | ---------------------- |
+| Risk assesment | | topic b| |
+| ![](/stats1.JPG){height="200px"} | ![](/stats2.JPG){height="200px"} | ![](/stats1.JPG){height="200px"} | ![](/stats2.JPG){height="200px"} |
 
 
 
 
+## Research Projects
+
+|Research Project|Sponser|Amount|Role|Year|
+|------|---|---|--|:--:|
+|Pedestrian safety in mixed traffic conditions: Probing executable solutions to enhance vulnerable road users’ safety using a pedestrian simulator | SERB|31.9 Lakhs |PI |Dec 2020 - Jun 2023|
+|Comprehensive approach for crash risk assessment of highspeed corridors in India | SRIC, IITR| 20 Lakhs|PI  | Mar 2020 - Mar 2023|
+|Understanding Human Factors in Transportation using a connected simulator set-up  | SRIC, IITR|180 lakhs|PI  | Mar 2023|
+|Advanced Transport Modelling and Simulation for National Highways in India |IAHE|419 Lakhs|Co-PI|Jan 2022 - Jun 2025|
+
+: {.table-striped .table-bordered .responsive .justify .small-font}

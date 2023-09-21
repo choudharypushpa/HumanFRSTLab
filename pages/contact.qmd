@@ -30,14 +30,16 @@ toc: false
 :::{.g-col-6}
 Dr. Pushpa Choudhary, <br>Room No. 321 A & B, <br> Civil Engineering Department, <br> IIT Roorkee, Roorkee-247667, India
 
-**Email**:<br>
-
- -  <pushpa.fce@iitr.ac.in> 
+:::{.less-spacing}
+**Email**:
+:::
+ -  <pushpa.fce@iitr.ac.in>
  -  <pushpa@ce.iitr.ac.in>
 
-**Phone**:<br>
-
--  (+91) 01332-28-4925(O)
+:::{.less-spacing}
+**Phone**:
+:::
+-  (+91) 01332-28-4925 (O)
 -  (+91) 01332-28-6925 (R)
 :::
 

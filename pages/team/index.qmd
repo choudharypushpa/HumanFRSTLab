@@ -10,13 +10,13 @@ listing:
   - id: phd
     contents: "phd"
     sort: "title"
-    type: default
+    type: grid
     categories: true
     filter-ui: false
   - id: MTech
     contents: "MTech"
     sort: "title"
-    type: default
+    type: grid
     categories: true
     filter-ui: false
 

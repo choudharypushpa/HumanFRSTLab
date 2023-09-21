@@ -8,4 +8,4 @@ about:
   id: hero-heading
   template: solana
   image-shape: rounded
-  image-width: 15em
+  # image-width: 15em

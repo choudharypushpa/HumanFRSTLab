@@ -2,11 +2,11 @@ project:
   type: website
 
 website:
-  title: "HumanFRST Lab"
+  title: "HumanFRST Group"
   navbar:
     left:
       - pages/team/index.qmd
-      # - pages/research/index.qmd
+      - pages/research/index.qmd
       # - pages/publications/index.qmd
       # - pages/posts/index.qmd
       # - pages/resources/index.qmd

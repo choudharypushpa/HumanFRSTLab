@@ -1,0 +1,116 @@
+---
+title: "{{< var group.name >}}"
+page-layout: full
+title-block-banner: true
+---
+We primarily focus on comprehending various road user interactions within diverse road network scenarios using virtual reality setup or naturalistic studies in order to improve safety and efficiency. Ongoing works are briefly demonstrated here.
+
+<!-- Two columns with image and description, total width 12 -->
+<hr>
+## Studies in Virtual Environment
+
+::: {.grid}
+::: {.g-col-8}
+![](/assets/Connectedsim.jpg){.img-outline}
+:::
+
+::: {.g-col-4}
+**Connected Simulator Setup:** A connected simulator enables an experimental set-up where two or more road users can interactively drive/walk in the same road scenario, simultaneously. In the _**connected simulator set-up present at IIT Roorkee**_, the follwing simualtors are connected to each other: 
+ 
+ - Pedestrian simulator, 
+ - Two-wheeler simulator, 
+ - Car simulator and 
+ - Bicycle simulator
+
+The connected simulators can be operated individually or in a synchronised manner, making it **_one of its kind facilities in India_**. 
+:::
+:::
+
+
+::: {.grid .center}
+::: {.g-col-3}
+![](/assets/Car_vid.mov){.img-outline height="200"}
+Car simulator
+:::
+::: {.g-col-3}
+![](/assets/Media1.mp4){.img-outline height="200"}
+Motorcycle simulator
+:::
+::: {.g-col-3}
+![](/assets/Ped_vid.mov){.img-outline height="200"}
+Pedestrian simulator
+:::
+::: {.g-col-3}
+![](/assets/Cycle_Vid.mp4){.img-outline height="200"}
+Bicycle Simulator
+:::
+:::
+
+The current setup enables participants to engage with virtual reality through a head-mounted display (HMD) and screen-based set-up. Moreover, the simulators are equipped with eye trackers to capture gaze and pupil movements, further enhancing our ability to understand the subjective behavior of road users. Additionally, the inclusion of body trackers enables precise monitoring of limb and torso movements.
+
+<!-- Two columns with image and description -->
+::: {.grid}
+::: {.g-col-8}
+**Pedestrians in risky environments:** Using the simulator set-up, the group tries to gain insights into pedestrian behavior within various unsafe traffic scenarios such as distracted road users, time-constrained walking, non-compliance with traffic signals. The group members are involved in testing and configuring several countermeasures/alternatives (pedestrian warning systems, Pedestrian to Infrastructure systems (P2I), etc.) in the most cost-effective, safe, and repeatable manner using the connected simulator set-up. As a result, our research aims to contribute to the design of pedestrian-friendly Indian cities.
+
+:::
+::: {.g-col-4}
+![](/assets/Lidar_data.gif){height="200"}
+:::
+:::
+
+
+
+---
+## Studies in Naturalistic Environment
+<hr>
+
+<!-- Two columns with image and description -->
+::: {.grid}
+::: {.g-col-8}
+**Naturalistic Driving Studies (NDS):** Our research group is also working in NDS and utilizes instrumented vehicle datasets to delve into the intricate realm of human factors influencing driving behavior. Currently, LiDAR sensor, camera sensors, pedal force sensor and Video-Vbox is being used to gather vehicle kinematics and surrounding data. Utilizing these sensors, we have developed an extensive dataset tailored for expressway driving, known as the **_'Expressway Drive: Instrumented Vehicle (EDIV) Dataset'_**. This dataset encompasses records from 60 drivers, collectively accumulating approximately 8000 kilometers of expressway driving data. Through extensive research, we are exploring the multifaceted parameters within real-time scenarios to gain deeper insights into driver behavior, furthering our understanding of the complexities of driving on the road. 
+:::
+::: {.g-col-4}
+![](/assets/Lidar_data.gif){height="200"}
+:::
+:::
+
+<!-- Three columns with image and description -->
+::: {.grid}
+::: {.g-col-4}
+![](/assets/NDS3.jpg){height="200px"}
+:::
+::: {.g-col-4}
+![](/assets/sensors_NDS.PNG){height="200px"}
+:::
+::: {.g-col-4}
+![](/Li_extract.jpg){height="200px"}
+:::
+:::
+
+<!-- Two columns with image and description -->
+::: {.grid}
+::: {.g-col-8}
+**Human factors in complex road geometry:** Currently, the group is exploring the role of human factors on safety on high-crash-risk mountainous roads with strong emphasis on the comprehensive analysis of driving performance. Our approach encompasses a holistic examination of factors such as driver characteristics, road conditions, vehicle attributes, and environmental variables. This multifaceted analysis is achieved through the integration of both naturalistic and simulator-based approaches. 
+:::
+::: {.g-col-4}
+![](/assets/HILL1.JPG)
+:::
+:::
+
+
+<!-- Threecolumns with image and description -->
+::: {.grid}
+::: {.g-col-8}
+**Naturalistic Pedestrian Studies (NPS):** Additionally, pedestrian-vehicles interactions are studied in naturalistic environment, especially to capture visual scanning patterns of pedestrian’s along with their walking and demographic characteristics. The work targets to gain insights into how pedestrians visually explore their surroundings and make decisions while crossing the road. This information can be valuable for designing safer and more efficient intersections, thus improving safety.
+:::
+::: {.g-col-4}
+![](/assets/Lidar_data.gif){height="200"}
+:::
+:::
+
+
+
+
+
+
