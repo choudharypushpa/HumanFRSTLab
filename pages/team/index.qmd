@@ -7,6 +7,8 @@ listing:
     type: default
     categories: true
     filter-ui: false
+    max-description-length: 250
+
   - id: phd
     contents: "phd"
     sort: "title"
@@ -14,7 +16,7 @@ listing:
     categories: true
     filter-ui: false
   - id: MTech
-    contents: "MTech"
+    contents: "mtech"
     sort: "title"
     type: grid
     categories: true

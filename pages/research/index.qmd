@@ -5,8 +5,10 @@ page-layout: article
 # Areas of Interests
 
 ### Driver Behavioral Studies
+
 #### Naturalistic driving studies
 ::: {.grid}
+
 ::: {.g-col-5 .outline .row-1}
 ![](/assets/research/NDS3.jpg)
 :::
