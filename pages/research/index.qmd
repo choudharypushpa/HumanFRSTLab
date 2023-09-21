@@ -1,35 +1,107 @@
 ---
-title: "Research"
 page-layout: article
 ---
 
-## Research Areas
+# Areas of Interests
 
-|Driver Behavioral Studies
-| ---------------------- | ---------------------- | ---------------------- |---------------------- |
-|Naturalistic driving studies||Driver behaviour in complex road geomtery||
-|![](/assets/NDS3.jpg){height="200px"}|![](/assets/sensors_NDS.PNG){height="200px"} | ![](/assets/HILL1.jpg){height="200px"}|![](/assets/HILL2.jpg){height="200px"}|
+### Driver Behavioral Studies
 
-             
-|Pedestrian-Vehicle Interactions
-| ---------------------- | ---------------------- | ---------------------- |---------------------- |
-|Effects of distraction on P-V interactions||Relation between time pressure and non-compliance||
-| ![](/vul1.jpg){height="200px"} | ![](/assets/vul2.jpg){height="200px"}| ![](/assets/PVI_4.png){height="200px"}|![](/assets//PVI_2.png){height="200px"}|
+#### Naturalistic driving studies
 
-             
-|Visaul Scnanning Behvaiour of Road Users
-| ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-|Visual scanning of non-attentive road users||Strategic visual scanning at intersetions||
-|![](/assets/eye13.jpg){height="200px"}|![](/assets/eye12.jpg){height="200px"}|![](/assets/eye21.jpg){height="200px"}|![](/assets/eye22.jpg){height="200px"}|
+::: {.grid}
+::: {.g-col-5 .outline .row-1}
+![](/assets/research/NDS3.jpg)
+:::
+
+::: {.g-col-7 .outline .row-1}
+![](/assets/research/sensors_NDS.PNG)
+:::
+:::
 
 
-|Data-driven Analysis  
-| ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-| Risk assesment | | topic b| |
-| ![](/stats1.JPG){height="200px"} | ![](/stats2.JPG){height="200px"} | ![](/stats1.JPG){height="200px"} | ![](/stats2.JPG){height="200px"} |
+#### Driver behaviour in complex road geomtery
+
+::: {.grid}
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/HILL1.jpg)
+:::
+
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/HILL2.jpg)
+:::
+:::
 
 
+### Pedestrian-Vehicle Interactions
+#### Effects of distraction on P-V interactions
+::: {.grid}
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/vul1.jpg)
+:::
 
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/vul2.jpg)
+:::
+:::
+
+#### Relation between time pressure and non-compliance
+::: {.grid}
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/PVI_4.png)
+:::
+
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/PVI_2.png)
+:::
+:::
+
+
+### Visaul Scnanning Behvaiour of Road Users
+#### Visual scanning of non-attentive road users
+::: {.grid}
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/eye13.jpg)
+:::
+
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/eye12.jpg)
+:::
+:::
+
+#### Strategic visual scanning at intersetions
+::: {.grid}
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/eye21.jpg)
+:::
+
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/eye22.jpg)
+:::
+:::
+
+
+### Data-driven Analysis
+#### Risk assesment
+::: {.grid}
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/stats1.JPG)
+:::
+
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/stats2.JPG)
+:::
+:::
+
+<!-- #### Topic B
+::: {.grid}
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/stats1.JPG)
+:::
+
+::: {.g-col-6 .outline .row-1}
+![](/assets/research/stats2.JPG)
+:::
+::: -->
 
 ## Research Projects
 

@@ -1,7 +1,5 @@
 ---
-title: "Contact"
 toc: false
-
 # about:
 #   template: broadside
   # links:
@@ -17,7 +15,9 @@ toc: false
 
 ---
 
-**Here are the contact details if you are a prospective student or a professional wanting to collaborate.** 
+# Contact
+
+**Here are the contact details if you are a prospective student or a professional wanting to collaborate.**
 
 <hr>
 

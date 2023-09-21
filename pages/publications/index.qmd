@@ -1,33 +1,62 @@
 ---
-title: "Publications"
-listing:
-  - id: working-papers
-    contents: "working"
-    sort: "date desc"
-    # template: listing.ejs
-    fields: [date, author, title, categories, description, preprint]
-  - id: published
-    contents: "published"
-    sort: "date desc"
-    # template: listing.ejs
-    categories: true
-    sort-ui: false
-    filter-ui: true
-    fields: [date, author, title, categories, description, doi, url]
 page-layout: article
 ---
 
-This is the list of publications.
+# Publications
 
-## Working papers
+1. Apurwa Dhoke and **Pushpa Choudhary** (2023) Is there a relationship between time pressure and pedestrian non-compliance? A systematic review. *Transportation Research Part F: Traffic Psychology and Behaviour, 93, 68--89*. [DOI: 10.1016/j.trf.2023.01.001](https://doi.org/10.1016/j.trf.2023.01.001)
+2. Nektarios Karanikas and **Pushpa Choudhary** and Sergio A. Useche and Oscar Oviedo-Trespalacios (2023) Safety science special issue "safety in low- and middle-income countries". *Safety Science, No volume, 106250*. [DOI: 10.1016/j.ssci.2023.106250](https://doi.org/10.1016/j.ssci.2023.106250)
+3. **Pushpa Choudhary** and Kirti Mahajan and Nagendra R. Velaga and Ravi Shankar (2022) Modeling phone use prevalence and risk assessment among long-haul truck drivers in India. *IATSS Research, 46, 112--121*. [DOI: 10.1016/j.iatssr.2021.10.005](https://doi.org/10.1016/j.iatssr.2021.10.005)
+4. **Pushpa Choudhary** and Akshay Gupta and Nagendra R. Velaga (2022) Perceived risk vs actual driving performance during distracted driving: A comparative analysis of phone use and other secondary distractions. *Transportation Research Part F: Traffic Psychology and Behaviour, 86, 296--315*. [DOI: 10.1016/j.trf.2022.03.001](https://doi.org/10.1016/j.trf.2022.03.001)
+5. Digvijay S. Pawar and Ankit Kumar Yadav and **Pushpa Choudhary** and Nagendra R. Velaga (2021) Modelling work- and non-work-based trip patterns during transition to lockdown period of COVID-19 pandemic in India. *Travel Behaviour and Society, 24, 46--56*. [DOI: 10.1016/j.tbs.2021.02.002](https://doi.org/10.1016/j.tbs.2021.02.002)
+6. Akshay Gupta and **Pushpa Choudhary** and Manoranjan Parida (2021) Understanding and modelling risky driving behaviour on high-speed corridors. *Transportation Research Part F: Traffic Psychology and Behaviour, 82, 359--377*. [DOI: 10.1016/j.trf.2021.09.009](https://doi.org/10.1016/j.trf.2021.09.009)
+7. Aditi Meshram and **Pushpa Choudhary** and Nagendra R Velaga (2020) Assessing and Modelling Perceived Safety and Comfort of Women during Ridesharing. *Transportation Research Procedia, 48, 2852--2869*. [DOI: 10.1016/j.trpro.2020.08.233](https://doi.org/10.1016/j.trpro.2020.08.233)
+8. Nishant Mukund Pawar and Rashmeet Kaur Khanuja and **Pushpa Choudhary** and Nagendra R. Velaga (2020) Modelling braking behaviour and accident probability of drivers under increasing time pressure conditions. *Accident Analysis & Prevention, 136, 105401*. [DOI: 10.1016/j.aap.2019.105401](https://doi.org/10.1016/j.aap.2019.105401)
+9. R.B. Sharmila and Nagendra R. Velaga and **Pushpa Choudhary** (2020) Bus arrival time prediction and measure of uncertainties using survival models. *IET Intelligent Transport Systems, 14, 900--907*. [DOI: 10.1049/iet-its.2019.0584](https://doi.org/10.1049/iet-its.2019.0584)
+10. **Pushpa Choudhary** and Nagendra R. Velaga (2020) Impact of distraction on decision making at the onset of yellow signal. *Transportation Research Part C: Emerging Technologies, 118, 102741*. [DOI: 10.1016/j.trc.2020.102741](https://doi.org/10.1016/j.trc.2020.102741)
+11. **Pushpa Choudhary** and Nishant M. Pawar and Nagendra R. Velaga and Digvijay S. Pawar (2020) Overall performance impairment and crash risk due to distracted driving: A comprehensive analysis using structural equation modelling. *Transportation Research Part F: Traffic Psychology and Behaviour, 74, 120--138*. [DOI: 10.1016/j.trf.2020.08.018](https://doi.org/10.1016/j.trf.2020.08.018)
+12. **Pushpa Choudhary** and Nagendra R. Velaga (2019) Performance Degradation During Sudden Hazardous Events: A Comparative Analysis of Use of a Phone and a Music Player During Driving. *IEEE Transactions on Intelligent Transportation Systems, 20, 4055--4065*. [DOI: 10.1109/tits.2018.2879968](https://doi.org/10.1109/tits.2018.2879968)
+13. **Pushpa Choudhary** and Nagendra R. Velaga (2019) Effects of phone use on driving performance: A comparative analysis of young and professional drivers. *Safety Science, 111, 179--187*. [DOI: 10.1016/j.ssci.2018.07.009](https://doi.org/10.1016/j.ssci.2018.07.009)
+14. Kirti Mahajan and Nagendra R. Velaga and Akhilesh Kumar and Alok Choudhary and **Pushpa Choudhary** (2019) Effects of driver work-rest patterns, lifestyle and payment incentives on long-haul truck driver sleepiness. *Transportation Research Part F: Traffic Psychology and Behaviour, 60, 366--382*. [DOI: 10.1016/j.trf.2018.10.028](https://doi.org/10.1016/j.trf.2018.10.028)
+15. **Pushpa Choudhary** and Nagendra R. Velaga (2019) Driver behaviour at the onset of yellow signal: A comparative study of distraction caused by use of a phone and a music player. *Transportation Research Part F: Traffic Psychology and Behaviour, 62, 135--148*. [DOI: 10.1016/j.trf.2018.12.022](https://doi.org/10.1016/j.trf.2018.12.022)
+16. **Pushpa Choudhary** and Nagendra R. Velaga (2019) A comparative analysis of risk associated with eating, drinking and texting during driving at unsignalised intersections. *Transportation Research Part F: Traffic Psychology and Behaviour, 63, 295--308*. [DOI: 10.1016/j.trf.2019.04.023](https://doi.org/10.1016/j.trf.2019.04.023)
+17. **Pushpa Choudhary** and Nagendra R. Velaga (2019) Gap acceptance behavior at unsignalized intersections: Effects of using a phone and a music player while driving. *Traffic Injury Prevention, 20, 372--377*. [DOI: 10.1080/15389588.2019.1591619](https://doi.org/10.1080/15389588.2019.1591619)
+18. Kirti Mahajan and Nagendra R Velaga and Akhilesh Kumar and **Pushpa Choudhary** (2019) Effects of driver sleepiness and fatigue on violations among truck drivers in India. *International Journal of Injury Control and Safety Promotion, 26, 412--422*. [DOI: 10.1080/17457300.2019.1660375](https://doi.org/10.1080/17457300.2019.1660375)
+19. **Pushpa Choudhary** and Nagendra R. Velaga (2018) Effects of texting on accident risk during a sudden hazardous event: Analysis of predetection and postdetection phases. *Traffic Injury Prevention, 19, 806--811*. [DOI: 10.1080/15389588.2018.1517237](https://doi.org/10.1080/15389588.2018.1517237)
+20. **Pushpa Choudhary** and Marianna Imprialou and Nagendra R. Velaga and Alok Choudhary (2018) Impacts of speed variations on freeway crashes by severity and vehicle type. *Accident Analysis & Prevention, 121, 213--222*. [DOI: 10.1016/j.aap.2018.09.015](https://doi.org/10.1016/j.aap.2018.09.015)
+21. **Pushpa Choudhary** and Nagendra R. Velaga (2017) Analysis of vehicle-based lateral performance measures during distracted driving due to phone use. *Transportation Research Part F: Traffic Psychology and Behaviour, 44, 120--133*. [DOI: 10.1016/j.trf.2016.11.002](https://doi.org/10.1016/j.trf.2016.11.002)
+22. **Pushpa Choudhary** and Nagendra R. Velaga (2017) Modelling driver distraction effects due to mobile phone use on reaction time. *Transportation Research Part C: Emerging Technologies, 77, 351--365*. [DOI: 10.1016/j.trc.2017.02.007](https://doi.org/10.1016/j.trc.2017.02.007)
+23. **Pushpa Choudhary** and Nagendra R Velaga (2017) Mobile phone use during driving: Effects on speed and effectiveness of driver compensatory behaviour. *Accident Analysis & Prevention, 106, 370--378*. [DOI: 10.1016/j.aap.2017.06.021](https://doi.org/10.1016/j.aap.2017.06.021)
 
-:::{#working-papers}
-:::
 
+# Conferences
 
-## Journal articles
+1.	Dhoke, A.*, and Choudhary, P. Decision Tree Algorithm-based analysis of pedestrian crashes at signalized intersection. 9th Annual International Conference on Transportation, ATINER, Athens, Greece, May 29-June 1, 2023. (ACCEPTED)
+2.	Krishna K V., and Choudhary P*. Investigating Effects of Distraction on Pedestrian Crossing Behaviour: An Experimental Study using an Eye-Tracker in Field.102nd Annual Meeting of Transportation Research Board, Washington D.C., USA, January 8-12, 2023
+3.	Gupta A., Shreyansh, Choudhary P*, Parida M. Towards a Systematic Approach to Detect, Classify and Track Surrounding Vehicles in Dynamic Conditions Using a Vehicle Mounted Cost-effective LiDAR Sensor on Expressways.102nd Annual Meeting of Transportation Research Board, Washington D.C., USA, January 8-12, 2023.
+4.	Dhoke, A., and Choudhary, P. Analysis of Influence of Time Pressure on Temporal Non-Compliance Behavior using a Pedestrian Simulator. 14th International Conference on Transportation Planning and Implementation Methodologies for Developing Countries (TPMDC), IIT Bombay, India, December 19-21, 2022
+5.	Gupta A.*, Choudhary P, Parida M. Does Type of Car Really Influence Driver Behaviour? A Comparative Study of Risky Driving Behaviors between SUVs and other Types of Cars. 16th World Conference on Transport Research, Montreal, Canada, from 17 to 21 July 2023 (Accepted for presentation)
+6.	Gupta A. *, Shreyansh, Choudhary P, Parida M. Pipeline development to detect, classify and track surrounding vehicles using a single sparse LiDAR in dynamic condition. 16th World Conference on Transport Research, Montreal, Canada, from 17 to 21 July 2023 (Accepted for presentation)
+7.	Yadav R., Gupta A. *, Choudhary P, Parida M. A Comparative Study on the Effects of Service Quality and Personal Attitudes on Overall Satisfaction with Public Buses: A Case Study of Kathmandu, Nepal. 16th World Conference on Transport Research, Montreal, Canada, from 17 to 21 July 2023 (Accepted for presentation)
+8.	Yadav A.*, Parida M., Kumar B., Choudhary P. (2023), Effect of Influencing Variables on Traffic Noise at Intersections in a Mid-Sized City. Accepted for Presentation in 16th World Conference on Transportation Research (WCTR). Place: Montréal (Canada)
+9.	Gupta A., Choudhary P*, Parida M. (2022), Assessment of Risky Driving Behavior on Expressways: An Association Rules Mining Approach. Accepted for presentation in 101st Annual Meeting of Transportation Research Board (TRB), Place: Washington D.C., USA
+10.	Choudhary P*., Gupta A., Valaga N. R., (2022), Perceived Risk vs Actual Driving Performance during Distracted Driving: A Comparative Analysis of Phone Use and Other Secondary Distractions. Accepted for presentation in 101st Annual Meeting of Transportation Research Board (TRB), Place: Washington D.C., USA
+11.	Gupta A.*, Choudhary P, Parida M., (2022), Assessment of Risky Driving Behavior on Expressways: Association between Risk Levels, Drivers' Driving Characteristics and Demographics, Accepted for presentation in International Conference on Transportation and Development, ASCE, Place: Seattle, Washington, USA
 
-:::{#published}
-:::
+1.	Choudhary, P., and Velaga, N. R., A comparative analysis of risk associated with eating, drinking and texting during driving at unsignalised intersections, 98th Annual Meeting of the Transportation Research Board (TRB), 13-17 January, 2019, Washington, D.C., USA.
+2.	Mahajan, K., Velaga, N. R., Kumar, A., and Choudhary, P., Traffic violations among truck drivers due to fatigue and sleepiness. 98th Annual Meeting of the Transportation Research Board (TRB), 13-17 January, 2019, Washington, D.C., USA.
+3.	Choudhary, P., and Velaga, N. R., Driver behaviour at signalised intersections: consequences of eating and drinking during driving, 15th World Conference on Transport Research (WCTR), 26-31 May, 2019.
+4.	Choudhary, P., and Velaga, N. R., Performance degradation during sudden hazardous events: a comparative analysis of use of a phone and a music player during driving, 15th World Conference on Transport Research (WCTR), 26-31 May, 2019.
+5.	Choudhary, P., and Velaga, N. R., Effects of pre-detection and post-detection phases of a sudden event on accident risk, 15th World Conference on Transport Research (WCTR), 26-31 May, 2019.
+6.	Choudhary, P., and Velaga, N. R., Driver behaviour at the yellow onset: a comparative study of distraction caused by phone conversation and a music player, 15th World Conference on Transport Research (WCTR), 26-31 May, 2019.
+7.	Choudhary, P., and Velaga, N. R., Gap acceptance behaviour at unsignalised intersections: effects of use of a phone and a music player during driving, 15th World Conference on Transport Research (WCTR), 26-31 May, 2019.
+8.	Choudhary, P., and Velaga, N. R., A comparative analysis of risk associated with eating, drinking and texting during driving at unsignalised intersections, 15th World Conference on Transport Research (WCTR), 26-31 May, 2019.
+9.	Choudhary, P., Mahajan, K., Velaga, N. R., Choudhary, A., and Shankar, R., Modeling phone use prevalence and risk assessment among long-haul truck drivers, 15th World Conference on Transport Research (WCTR) 26-31 May, 2019.
+10.	Mahajan, K., Velaga, N. R., Kumar, A., Choudhary, A., and Choudhary, P., Effect of driver work-rest patterns, lifestyle and payment incentives on long-haul truck driver sleepiness, 15th World Conference on Transport Research (WCTR), 26-31 May, 2019.
+11.	Meshram, A., Choudhary, P., and Velaga, N. R., Assessing and modelling perceived safety and comfort of women during ridesharing, 15th World Conference on Transport Research (WCTR), 26-31 May, 2019.
+12.	Choudhary, P., Imprialou, M., Velaga, N. R., and Choudhary, A., Impacts of speed variations on freeway crashes by severity and transportation mode, 97th Annual Meeting of the Transportation Research Board (TRB), 7-11 January, 2018, Washington, D.C., USA.
+13.	Choudhary, P., and Velaga, N. R., Effects of mobile phone use on driving performance: a comparison between less experienced young drivers and professional drivers, The 4th Conference of the Transportation Research Group of India (CTRG), 17-20 December, 2017, Mumbai, India.
+14.	Choudhary, P., and Velaga, N. R., Mobile phone use during driving: effects on speed reduction and effectiveness of compensatory behaviour, 96th Annual Meeting of the Transportation Research Board (TRB), 8-12 January 2017, Washington, D.C., USA.
+15.	Meshram, A., Choudhary, P., and Velaga, N. R., Assessing the safety and comfort of women during ridesharing in India, 96th Annual Meeting of the Transportation Research Board (TRB), 8-12 January 2017, Washington, D.C., USA
 
 

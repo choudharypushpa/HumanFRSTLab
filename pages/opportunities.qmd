@@ -1,6 +1,4 @@
 ---
-title: "Opportunities"
-image: default.jpg
 about:
   template: jolla
   links:
@@ -15,5 +13,7 @@ about:
       href: https://github.com
 
 ---
+
+# Opportunities
 
 About this blog

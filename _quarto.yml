@@ -6,17 +6,38 @@ website:
   navbar:
     left:
       - pages/team/index.qmd
-      - pages/research/index.qmd
-      # - pages/publications/index.qmd
-      # - pages/posts/index.qmd
-      # - pages/resources/index.qmd
-      - pages/contact.qmd
-      # - pages/opportunities.qmd
+      - text: "Research"
+        href: pages/research/index.qmd
+      - text: "Publications"
+        href: pages/publications/index.qmd
+      - text: "Contact"
+        href: pages/contact.qmd
+      # - text: "Opportunities"
+      #   href: pages/opportunities.qmd
     # right:
-    #   - icon: github
-    #     href: https://github.com/
+      # - icon: github
+      #   href: https://github.com/
+      #   - icon: twitter
+      #     href: https://twitter.com
+  page-footer:
+    center: |
+      [![](/assets/misc/iitr_logo.png){fig-alt='IIT Roorkee' width=50px}
+      <br>
+      Proudly supported by IIT Roorkee
+      ](https://iitr.ac.in)
+    # center:
+    #   - text: "About"
+    #     href: pages/contact.qmd
+    # right:
     #   - icon: twitter
-    #     href: https://twitter.com
+    #     href: https://twitter.com/quarto_pub
+    #     aria-label: Quarto Twitter
+    #   - icon: github
+    #     href: https://github.com/quarto-dev/quarto-cli
+    #     aria-label: Quarto GitHub
+    #   - icon: rss
+    #     href: https://quarto.org/docs/blog/index.xml
+    #     aria-label: Quarto Blog RSS
 format:
   html:
     theme:
