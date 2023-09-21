@@ -111,3 +111,25 @@ section.page-columns p {
 .less-spacing p {
     margin-bottom: -0.25rem;
 }
+
+.nav-footer-center {
+    box-shadow: #ccc 0px 0px 2px;
+}
+
+.nav-footer-center ul {
+    display: inline !important;
+}
+
+.nav-footer-center ul li {
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.fix-list-default div div div.body {
+    flex-basis: auto;
+}
+
+.pad-left {
+    padding: 0rem 0rem 0rem 1rem;
+}

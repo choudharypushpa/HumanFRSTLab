@@ -60,7 +60,7 @@ Phone: (+91) 01332-28-4925(O), (+91) 01332-28-6925 (R)
 |Transportation System Analysis | UG+PG|
 |Transportation studies and Analysis lab |PG Lab|
 |Engineering Graphics | UG|
-|Introduction to Civil Engineering | UG| 
+|Introduction to Civil Engineering | UG|
 :::
 
 
@@ -99,49 +99,49 @@ Certainly, here's the list in Markdown format:
 
 9. **Mahajan, K., Velaga, N. R., Kumar, A., and Choudhary, P. (2019)**. *Effects of driver sleepiness and fatigue on violations among truck drivers in India.* *Journal:* International journal of injury control and safety promotion, *Volume:* 26 (4), *Pages:* 412-422.
 
-10. **Choudhary, P. and Velaga, N. R. (2019)**. *Driver behaviour at the onset of yellow signal: A comparative study of distraction caused by use of a phone and a music player.*  
+10. **Choudhary, P. and Velaga, N. R. (2019)**. *Driver behaviour at the onset of yellow signal: A comparative study of distraction caused by use of a phone and a music player.*
     - *Journal:* Transportation Research Part F: Traffic Psychology and Behaviour, *Volume:* 62, *Pages:* 135-148.
 
-11. **Choudhary, P. and Velaga, N. R. (2019)**. *A comparative analysis of risk associated with eating, drinking and texting during driving at unsignalised intersections.*  
+11. **Choudhary, P. and Velaga, N. R. (2019)**. *A comparative analysis of risk associated with eating, drinking and texting during driving at unsignalised intersections.*
     - *Journal:* Transportation Research Part F: Traffic Psychology and Behaviour, *Volume:* 63, *Pages:* 295-308.
 
-12. **Choudhary, P. and Velaga, N. R. (2018)**. *Performance degradation during sudden hazardous events: a comparative analysis of use of a phone and a music player during driving.*  
+12. **Choudhary, P. and Velaga, N. R. (2018)**. *Performance degradation during sudden hazardous events: a comparative analysis of use of a phone and a music player during driving.*
     - *Journal:* IEEE Transactions on Intelligent Transportation Systems, *Volume:* 20 (11), *Pages:* 4055-4065.
 
-13. **Choudhary, P. and Velaga, N. R. (2018)**. *Effects of texting on accident risk during a sudden hazardous event: Analysis of predetection and postdetection phases.*  
+13. **Choudhary, P. and Velaga, N. R. (2018)**. *Effects of texting on accident risk during a sudden hazardous event: Analysis of predetection and postdetection phases.*
     - *Journal:* Traffic injury prevention, *Volume:* 19 (8), *Pages:* 806-811.
 
-14. **Choudhary, P., Gupta, A., and Velaga, N. R. (2022)**. *Perceived risk vs actual driving performance during distracted driving: A comparative analysis of phone use and other secondary distractions.*  
+14. **Choudhary, P., Gupta, A., and Velaga, N. R. (2022)**. *Perceived risk vs actual driving performance during distracted driving: A comparative analysis of phone use and other secondary distractions.*
     - *Journal:* Transportation Research Part F: Traffic Psychology and Behaviour, *Volume:* 86, *Pages:* 296-315.
 
-15. **Choudhary, P. and Velaga, N. R. (2019)**. *Gap acceptance behavior at unsignalized intersections: effects of using a phone and a music player while driving.*  
+15. **Choudhary, P. and Velaga, N. R. (2019)**. *Gap acceptance behavior at unsignalized intersections: effects of using a phone and a music player while driving.*
     - *Journal:* Traffic injury prevention, *Volume:* 20 (4), *Pages:* 372-377.
 
-16. **Meshram, A., Choudhary, P., and Velaga, N. R. (2020)**. *Assessing and Modelling Perceived Safety and Comfort of Women during Ridesharing.*  
+16. **Meshram, A., Choudhary, P., and Velaga, N. R. (2020)**. *Assessing and Modelling Perceived Safety and Comfort of Women during Ridesharing.*
     - *Journal:* Transportation Research Procedia, *Volume:* 48, *Pages:* 2852-2869.
 
-17. **Choudhary, P. and Velaga, N. R. (2020)**. *Impact of distraction on decision making at the onset of yellow signal.*  
+17. **Choudhary, P. and Velaga, N. R. (2020)**. *Impact of distraction on decision making at the onset of yellow signal.*
     - *Journal:* Transportation Research Part C: Emerging Technologies, *Volume:* 118, *Page:* 102741.
 
-18. **Choudhary, P., Mahajan, K., Velaga, N. R., and Shankar, R. (2022)**. *Modeling phone use prevalence and risk assessment among long-haul truck drivers in India.*  
+18. **Choudhary, P., Mahajan, K., Velaga, N. R., and Shankar, R. (2022)**. *Modeling phone use prevalence and risk assessment among long-haul truck drivers in India.*
     - *Journal:* IATSS research, *Volume:* 46 (1), *Pages:* 112-121.
 
-19. **Gupta, A., Choudhary, P., and Parida, M. (2021)**. *Understanding and modelling risky driving behaviour on high-speed corridors.*  
+19. **Gupta, A., Choudhary, P., and Parida, M. (2021)**. *Understanding and modelling risky driving behaviour on high-speed corridors.*
     - *Journal:* Transportation Research Part F: Traffic Psychology and Behaviour, *Volume:* 82, *Pages:* 359-377.
 
-20. **Sharmila, R. B., Velaga, N. R., and Choudhary, P. (2020)**. *Bus arrival time prediction and measure of uncertainties using survival models.*  
+20. **Sharmila, R. B., Velaga, N. R., and Choudhary, P. (2020)**. *Bus arrival time prediction and measure of uncertainties using survival models.*
     - *Journal:* IET Intelligent Transport Systems, *Volume:* 14 (8), *Pages:* 900-907.
 
 21. **Meshram, A., Choudhary, P., and Velaga,
 
- N. R. (2017)**. *Assessing the Safety and Comfort of Women During Ridesharing in India.*  
+ N. R. (2017)**. *Assessing the Safety and Comfort of Women During Ridesharing in India.*
     - *Journal:* Transportation Research Board 96th Annual Meeting.
 
-22. **Karanikas, N., Choudhary, P., Useche, S. A., Oviedo-Trespalacios, O. (2023)**. *Safety science special issue “safety in low-and middle-income countries.”*  
+22. **Karanikas, N., Choudhary, P., Useche, S. A., Oviedo-Trespalacios, O. (2023)**. *Safety science special issue “safety in low-and middle-income countries.”*
     - *Journal:* Safety Science, *Page:* 106250.
 
-23. **Dhoke, A., Choudhary, P. (2023)**. *Is there a relationship between time pressure and pedestrian non-compliance? A systematic review.*  
+23. **Dhoke, A., Choudhary, P. (2023)**. *Is there a relationship between time pressure and pedestrian non-compliance? A systematic review.*
     - *Journal:* Transportation Research Part F: Traffic Psychology and Behaviour.
 
-24. **Mahajan, K., Velaga, N. R., Kumar, A., and Choudhary, P. (2019)**. *Traffic Violations among Truck Drivers Due to Fatigue and Sleepiness.*  
+24. **Mahajan, K., Velaga, N. R., Kumar, A., and Choudhary, P. (2019)**. *Traffic Violations among Truck Drivers Due to Fatigue and Sleepiness.*
     - *Journal:* Transportation Research Board 98th Annual Meeting.

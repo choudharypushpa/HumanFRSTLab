@@ -1,4 +1,5 @@
 ---
+image: ""
 listing:
   - id: faculty
     contents: "faculty"
@@ -27,15 +28,15 @@ page-layout: article
 The team at the <a style="color:none" href="/">{{< var group.name >}}</a> is a diverse group of researchers and students from various backgrounds. We are a team of 10+ members, including faculty, Ph. D. students, and M. Tech. students.
 
 ## Faculty
-:::{#faculty}
+:::{#faculty .fix-list-default}
 :::
 
 ## Ph. D. Students
 :::{#phd}
 :::
 
-<!-- ## M. Tech. Students
+## M. Tech. Students
 :::{#MTech}
-::: -->
+:::
 
 
