@@ -24,8 +24,8 @@ website:
       - text: "<span><span>Proudly supported by</span></span>"
       - text: "![](/assets/misc/iitr_logo.png){fig-alt='IIT Roorkee' height=50px}<br>IIT Roorkee"
         href: https://iitr.ac.in/
-      - text: "![](/assets/misc/serb_logo.png){fig-alt='SERB' height=50px}<br>SERB"
-        href: https://serb.gov.in/
+      # - text: "![](/assets/misc/serb_logo.png){fig-alt='SERB' height=50px}<br>SERB"
+      #   href: https://serb.gov.in/
     # center:
     #   - text: "About"
     #     href: pages/contact.qmd

@@ -16,7 +16,7 @@ listing:
     categories: true
     filter-ui: false
   - id: MTech
-    contents: "mtech"
+    contents: "MTech"
     sort: "title"
     type: grid
     categories: true

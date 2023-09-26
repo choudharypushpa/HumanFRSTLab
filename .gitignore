@@ -1,5 +1,5 @@
 /.quarto/
 default.jpg
 _site
-assets/*.mp4
-assets/*.mov
+*.mp4
+*.mov
