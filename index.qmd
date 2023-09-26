@@ -28,22 +28,22 @@ The connected simulators can be operated individually or in a synchronised manne
 
 ::: {.g-col-3 .outline}
 <p class="text-overlay">Car simulator</p>
-![](/assets/research/Car_vid.mov)
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/fCUO-EvkEEY?si=fbIf4XZ-XRvOqvOw&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
 ::: {.g-col-3 .outline}
 <p class="text-overlay">Motorcycle simulator</p>
-![](/assets/research/Media1.mp4)
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/FtMCH0zpetY?si=_Zyb4zZY2wTl8SiH&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
 ::: {.g-col-3 .outline}
 <p class="text-overlay">Pedestrian simulator</p>
-![](/assets/research/Ped_vid.mov)
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/O0hguGIeGI8?si=PfGDoA3Wlia-je-P&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
 ::: {.g-col-3 .outline}
 <p class="text-overlay">Bicycle Simulator</p>
-![](/assets/research/Cycle_Vid.mp4)
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/H1LClaNPGS4?si=bcc8Cs87Rgnt0OfB&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
 <!-- The current setup enables participants to engage with virtual reality through a head-mounted display (HMD) and screen-based set-up. Moreover, the simulators are equipped with eye trackers to capture gaze and pupil movements, further enhancing our ability to understand the subjective behavior of road users. Additionally, the inclusion of body trackers enables precise monitoring of limb and torso movements. -->
