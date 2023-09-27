@@ -133,3 +133,31 @@ section.page-columns p {
 .pad-left {
     padding: 0rem 0rem 0rem 1rem;
 }
+
+
+@media only screen and (max-width: 800px) {
+    .grid .g-col-6, .grid .g-col-8, .grid .right-most{
+        grid-column: auto/span 12;
+    }
+
+    .grid .g-col-3 {
+        grid-column: auto/span 6;
+    }
+
+    .row-1 {
+        height: 400px;
+        min-height: 400px;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .grid .g-col-3 {
+        grid-column: auto/span 12;
+    }
+
+    .row-1 {
+        height: auto;
+        min-height: auto;
+    }
+}
