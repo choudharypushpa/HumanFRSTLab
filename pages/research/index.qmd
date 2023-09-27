@@ -4,7 +4,7 @@ page-layout: article
 
 # Areas of Interests
 
-### Driver Behavioral Studies
+### Driver Behavioural Studies
 
 #### Naturalistic driving studies
 ::: {.grid}
@@ -56,7 +56,7 @@ page-layout: article
 
 <br>
 
-### Visaul Scnanning Behvaiour of Road Users
+### Visaul Scanning Behaviour of Road Users
 #### Visual scanning of non-attentive road users
 ::: {.grid}
 ::: {.g-col-6 .outline .row-1}

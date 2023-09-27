@@ -18,5 +18,5 @@ about:
 :::{#hero-heading}
 **Topic:** Understanding driving performance on hilly roads
  <br>
-Joined in July, 2022
+**Joined in** July, 2022
 :::

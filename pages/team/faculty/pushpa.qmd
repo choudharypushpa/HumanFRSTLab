@@ -56,9 +56,9 @@ Phone: (+91) 01332-28-4925(O), (+91) 01332-28-6925 (R)
 :::{.unequal-columns}
 |Subject|Class|
 |------|--|
-|Intersection design and Control | UG+PG|
+|Intersection Design and Control | UG+PG|
 |Transportation System Analysis | UG+PG|
-|Transportation studies and Analysis lab |PG Lab|
+|Transportation Studies and Analysis Lab |PG Lab|
 |Engineering Graphics | UG|
 |Introduction to Civil Engineering | UG|
 :::
@@ -79,6 +79,7 @@ Phone: (+91) 01332-28-4925(O), (+91) 01332-28-6925 (R)
 
 ## Publications
 
+1. Apurwa Dhoke and **Pushpa Choudhary** (2023), Temporal and Spatial Compliance Behaviour of Pedestrians Under the Influence of Time Pressure at Signalized Intersections: A Pedestrian Simulator Study, Journal of Traffic and Transportation Engineering (English Edition), (Accepted)
 1. Apurwa Dhoke and **Pushpa Choudhary** (2023) Is there a relationship between time pressure and pedestrian non-compliance? A systematic review. *Transportation Research Part F: Traffic Psychology and Behaviour, 93, 68--89*. [DOI: 10.1016/j.trf.2023.01.001](https://doi.org/10.1016/j.trf.2023.01.001)
 2. Nektarios Karanikas and **Pushpa Choudhary** and Sergio A. Useche and Oscar Oviedo-Trespalacios (2023) Safety science special issue "safety in low- and middle-income countries". *Safety Science, No volume, 106250*. [DOI: 10.1016/j.ssci.2023.106250](https://doi.org/10.1016/j.ssci.2023.106250)
 3. **Pushpa Choudhary** and Kirti Mahajan and Nagendra R. Velaga and Ravi Shankar (2022) Modeling phone use prevalence and risk assessment among long-haul truck drivers in India. *IATSS Research, 46, 112--121*. [DOI: 10.1016/j.iatssr.2021.10.005](https://doi.org/10.1016/j.iatssr.2021.10.005)
