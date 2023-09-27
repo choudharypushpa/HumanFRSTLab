@@ -1,7 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
+  site-url: "https://faculty.iitr.ac.in/iitr.ac.in/pushpa_fce"
+  site-path: "https://faculty.iitr.ac.in/iitr.ac.in/pushpa_fce"
   title: "HumanFRST Group"
   navbar:
     left:

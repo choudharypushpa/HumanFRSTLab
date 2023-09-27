@@ -1,0 +1,135 @@
+/* css styles */
+div.hide-metadata div.quarto-post div.metadata {
+    display: none;
+}
+
+section.page-columns p {
+    text-align: justify;
+}
+
+.center {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.small-font {
+    font-size: 0.9em;
+}
+
+.no-bullets ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.hero-highlight {
+    color: var(--bs-primary);
+}
+
+.gmap {
+    width: 100%;
+    min-height: 300px;
+}
+
+.grid {
+    gap: 15px;
+}
+
+/* class for restricting the height of the content */
+/* fit the content in a box of 500px height */
+.row-150 {
+    /* height: auto; */
+    /* max-height: 150px; */
+}
+
+.row-1 {
+    height: 250px;
+    max-height: 250px;
+}
+
+.row-1-m {
+    margin-bottom: 15px;
+    height: 250px;
+    max-height: 250px;
+}
+
+.row-2 {
+    height: 515px;
+    max-height: 515px;
+}
+
+.row-2-m {
+    margin-top: 15px;
+    height: 515px;
+    max-height: 515px;
+}
+
+/* Style for each image */
+.outline {
+    position: relative;
+    width: 100%;
+    /* border: 1px solid #ccc; */
+    /* border-radius: 5px; */
+    text-align: left;
+    overflow: hidden;
+    box-shadow: 0 0 5px #ccc;
+}
+
+.outline p {
+    height: 100%;
+}
+
+.outline p img {
+    width: 100%;
+    height: 100%;
+}
+
+.outline p video {
+    width: 100%;
+    height: 100%;
+}
+
+/* Style for the text overlay */
+.text-overlay {
+    height: auto !important;
+    position: absolute; /* Position the text absolutely within the container */
+    top: 10px; /* Place the text 50% from the top */
+    left: 10px; /* Place the text 50% from the left */
+    /* transform: translate(-4%, -4%); Center the text horizontally and vertically */
+    background-color: var(--bs-body-bg);
+    /* color: white; Text color */
+    padding-left: 10px; /* Add some padding for better readability */
+    padding-right: 10px;
+    border: 1px solid #ccc;
+    /* border-radius: 5px; */
+
+}
+
+.less-spacing p {
+    margin-bottom: -0.25rem;
+}
+
+.nav-footer-center {
+    box-shadow: #ccc 0px 0px 2px;
+}
+
+.nav-footer-center ul {
+    display: inline !important;
+}
+
+.nav-footer-center ul li {
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.fix-list-default div div div.body {
+    flex-basis: auto;
+}
+
+.pad-left {
+    padding: 0rem 0rem 0rem 1rem;
+}
