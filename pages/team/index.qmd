@@ -3,25 +3,19 @@ image: ""
 listing:
   - id: faculty
     contents: "faculty"
-    sort: "title"
-    type: default
-    categories: true
-    filter-ui: false
     max-description-length: 250
+    # type: default
+    # sort: "title"
+    # categories: false
+    # filter-ui: false
 
   - id: phd
     contents: "phd"
-    sort: "title"
     type: grid
-    categories: true
-    filter-ui: false
 
   - id: MTech
     contents: "MTech"
-    sort: "title"
     type: grid
-    categories: true
-    filter-ui: false
 
 page-layout: article
 ---

@@ -115,4 +115,4 @@ page-layout: article
 |Understanding Human Factors in Transportation using a connected simulator set-up  | SRIC, IITR|180 lakhs|PI  | Mar 2023|
 |Advanced Transport Modelling and Simulation for National Highways in India |IAHE|419 Lakhs|Co-PI|Jan 2022 - Jun 2025|
 
-: {.table-striped .table-bordered .responsive .justify .small-font}
+: {.table-striped .border .responsive .justify .small-font}
