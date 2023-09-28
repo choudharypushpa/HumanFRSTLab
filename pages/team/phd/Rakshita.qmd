@@ -3,7 +3,7 @@ title: "Rakshita Sharma"
 categories: "Ph. D. Student"
 tags: []
 pub_tag: "Rakshita"
-image: /HumanFRSTLab/assets/team/Rakshita.jpg
+image: https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Rakshita.jpg
 about:
   id: hero-heading
   links:

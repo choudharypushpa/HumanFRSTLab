@@ -3,7 +3,7 @@ title: "Apurwa Dhoke"
 categories: "Ph. D. Student"
 tags: []
 pub_tag: "Apurwa"
-image: /HumanFRSTLab/assets/team/Apurwa.jpg
+image: https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Apurwa.jpg
 about:
   id: hero-heading
   links:

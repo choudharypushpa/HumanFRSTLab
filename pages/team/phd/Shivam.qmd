@@ -3,7 +3,7 @@ title: "Shivam Sharma"
 categories: "Ph. D. Student"
 tags: []
 pub_tag: "Shivam"
-image: /HumanFRSTLab/assets/team/Shivam.jpg
+image: https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Shivam.jpg
 about:
   id: hero-heading
   links:

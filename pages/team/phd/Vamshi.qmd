@@ -3,7 +3,7 @@ title: "K Vamshi Krishna"
 categories: "Ph. D. Student"
 tags: []
 pub_tag: "Vamshi"
-image: /HumanFRSTLab/assets/team/Vamshi.jpg
+image: https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Vamshi.jpg
 about:
   id: hero-heading
   links:

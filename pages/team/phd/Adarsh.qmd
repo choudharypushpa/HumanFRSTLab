@@ -3,7 +3,7 @@ title: "Adarsh Kumar Yadav"
 categories: "Ph. D. Student"
 tags: []
 pub_tag: "Adarsh"
-image: /HumanFRSTLab/assets/team/Adarsh.jpg
+image: https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Adarsh.jpg
 about:
   id: hero-heading
   links:
