@@ -3,8 +3,7 @@ project:
   output-dir: docs
 
 website:
-  site-url: "https://faculty.iitr.ac.in/iitr.ac.in/pushpa_fce"
-  site-path: "https://faculty.iitr.ac.in/iitr.ac.in/pushpa_fce"
+  site-path: /HumanFRSTLab/
   title: "HumanFRST Group"
   navbar:
     left:
