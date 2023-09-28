@@ -1,6 +1,6 @@
 ---
 title: "Dr. Pushpa Choudhary"
-image: "/assets/team/Pushpa.jpg"
+image: /HumanFRSTLab/assets/team/Pushpa.jpg
 categories: "Faculty"
 tags: []
 pub_tag: "pushpa"

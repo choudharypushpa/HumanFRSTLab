@@ -5,3 +5,5 @@ group:
     <span class="hero-highlight">S</span>afety and
     <span class="hero-highlight">T</span>ransportation
     <span class="hero-highlight">(Human FRST)</span> Group
+site:
+  path: "/HumanFRSTLab"

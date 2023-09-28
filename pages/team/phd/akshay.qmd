@@ -3,7 +3,7 @@ title: "Akshay Gupta"
 categories: "Ph. D. Student"
 tags: []
 pub_tag: "Akshay"
-image: "/assets/team/Akshay.jpg"
+image: /HumanFRSTLab/assets/team/Akshay.jpg
 about:
   id: hero-heading
   links:

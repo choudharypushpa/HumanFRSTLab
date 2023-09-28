@@ -16,7 +16,7 @@ about:
 ---
 
 :::{#hero-heading}
-**Topic:** Evaluating Service Quality and Personal Attitudes as Predictors of Overall Satisfaction of Urban Buses 
+**Topic:** Evaluating Service Quality and Personal Attitudes as Predictors of Overall Satisfaction of Urban Buses
  <br>
 **Completed in** July, 2023<br>
 **Co-supervisor:** Prof Manoranjan Parida
