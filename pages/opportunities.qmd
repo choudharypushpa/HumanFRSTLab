@@ -1,19 +1,24 @@
 ---
-about:
-  template: jolla
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+toc: false
+# about:
+#   template: broadside
+  # links:
+  #   - icon: twitter
+  #     text: Twitter
+  #     href: https://twitter.com
+  #   - icon: linkedin
+  #     text: LinkedIn
+  #     href: https://linkedin.com
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com
 
 ---
 
-# Opportunities
+# Open Positions
 
-About this blog
+### PhD Positions
+1. Description of the project.
+
+### Masters projects
+

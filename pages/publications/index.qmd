@@ -2,6 +2,8 @@
 page-layout: article
 ---
 
+Please go to <a href="https://scholar.google.co.in/citations?user=unUZoZAAAAAJ&hl=en"> Google Scholar</a> for an updated list.
+
 # Publications
 
 {{< include _publication_list.qmd >}}

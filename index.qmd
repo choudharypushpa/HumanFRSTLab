@@ -4,6 +4,11 @@ page-layout: full
 title-block-banner: true
 ---
 
+<!-- ::: {.banner-highlight}
+<h3>[Open positions!!!](/pages/opportunities.qmd)</h3>
+::: -->
+
+
 We primarily focus on comprehending various road user interactions within diverse road network scenarios using virtual reality setup or naturalistic studies or combination of both in order to improve safety and efficiency. Ongoing works are briefly demonstrated here.
 
 
