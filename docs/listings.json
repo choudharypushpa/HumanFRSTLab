@@ -3,13 +3,7 @@
     "listing": "/pages/team/index.html",
     "items": [
       "/pages/team/faculty/pushpa.html",
-<<<<<<< Updated upstream
-      "/pages/team/phd/Adarsh.html",
-      "/pages/team/phd/Akshay.html",
-      "/pages/team/phd/Apurwa.html",
-=======
       "/pages/team/phd/akshay.html",
->>>>>>> Stashed changes
       "/pages/team/phd/Vamshi.html",
       "/pages/team/phd/Apurwa.html",
       "/pages/team/phd/Shivam.html",
