@@ -1,8 +1,12 @@
 ---
 image: ""
+page-layout: article
 listing:
   - id: faculty
     contents: "faculty"
+    sort: "title"
+    type: default
+    filter-ui: false
     max-description-length: 250
     # type: default
     # sort: "title"
@@ -11,13 +15,20 @@ listing:
 
   - id: phd
     contents: "phd"
+    sort: "doj"
     type: grid
+    filter-ui: false
 
   - id: MTech
     contents: "MTech"
     type: grid
+    filter-ui: false
 
-page-layout: article
+  - id: Previous
+    contents: "Previous"
+    sort: "doj"
+    type: grid
+    filter-ui: false
 ---
 
 # Team
@@ -32,8 +43,11 @@ The team at the <a style="color:none" href="/">{{< var group.name >}}</a> is a d
 :::{#phd}
 :::
 
+## Former Ph. D. Students
+:::{#Previous}
+:::
+
 ## M. Tech. Students
 :::{#MTech}
 :::
-
 

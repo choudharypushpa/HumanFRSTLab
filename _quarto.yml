@@ -14,8 +14,8 @@ website:
         href: pages/publications/index.qmd
       - text: "Contact"
         href: pages/contact.qmd
-      # - text: "Join us!"
-      #   href: pages/opportunities.qmd
+      - text: "Opportunities"
+        href: pages/opportunities.qmd
     # right:
       # - icon: github
       #   href: https://github.com/

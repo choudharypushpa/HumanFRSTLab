@@ -1,8 +1,54 @@
 ---
 page-layout: article
 ---
+<<<<<<< Updated upstream
 
 Please go to <a href="https://scholar.google.co.in/citations?user=unUZoZAAAAAJ&hl=en"> Google Scholar</a> for an updated list.
+=======
+# Publications
+
+
+1. Akshay Gupta, Shreyansh Jain, **Pushpa Choudhary**, and Manoranjan Parida. (2024). Dynamic object detection using sparse LiDAR data for autonomous machine driving and road safety applications. *Expert Systems with Applications, 225*, 124636. DOI: [10.1016/j.eswa.2024.124636](https://doi.org/10.1016/j.eswa.2024.124636)
+
+2. Rupesh Kumar Yadav, Akshay Gupta, **Pushpa Choudhary**, and Manoranjan Parida. (2024). Enhancing urban mobility: comparative analysis of improvement priorities for conventional and electric buses in Kathmandu city. *Sustainable Transport and Livability, 1*(1), 2347389. DOI: [10.1080/29941849.2024.2347389](https://doi.org/10.1080/29941849.2024.2347389)
+
+1. Akshay Gupta, **Pushpa Choudhary**, and Manoranjan Parida. (2024). Examining risky driving behaviours: A comparative analysis of SUVs and other car types. *Transport Policy, 152*, 9--20. DOI: [10.1016/j.tranpol.2024.04.012](https://doi.org/10.1016/j.tranpol.2024.04.012)
+
+3. Apurwa Dhoke and **Pushpa Choudhary** (2024), Temporal and Spatial Compliance Behaviour of Pedestrians Under the Influence of Time Pressure at Signalized Intersections: A Pedestrian Simulator Study, *Journal of Traffic and Transportation Engineering (English Edition), 11*(1), 55--68. DOI: [10.1016/j.jtte.2023.04.010](https://doi.org/10.1016/j.jtte.2023.04.010)
+
+
+4. Adarsh Yadav, Manoranjan Parida, **Pushpa Choudhary**, Brind Kumar, and Daljeet Singh. (2024). Traffic noise modelling at intersections in mid-sized cities: an artificial neural network approach. *Environmental Monitoring and Assessment, 196*(4), 396. DOI: [10.1007/s10661-024-12547-9](https://doi.org/10.1007/s10661-024-12547-9)
+
+5. Adarsh Yadav, Manoranjan Parida, **Pushpa Choudhary**,  Brind Kumar, and Daljeet Singh (2024). Investigating important and necessary conditions to analyse traffic noise levels at intersections in mid-sized cities. *Journal of Environmental Management, 355*, 120515. DOI: [10.1016/j.jenvman.2024.120515](https://doi.org/10.1016/j.jenvman.2024.120515)
+
+6. Kudurupaka Vamshi Krishna, Rudra Kapruwan, and **Pushpa Choudhary** (2024). Understanding distracted pedestrians’ risky behaviour: The role of walking and visual characteristics through a field study. *Transportation Research Part F: Traffic Psychology and Behaviour, 101*, 111-129. DOI: [10.1016/j.trf.2024.01.003](https://doi.org/10.1016/j.trf.2024.01.003)
+
+7. Nektarios Karanikas,  **Pushpa Choudhary**, Sergio A.Useche, and Oscar Oviedo-Trespalacios (2023). Safety science special issue “safety in low-and middle-income countries”. *Safety Science*. DOI: [10.1016/j.ssci.2023.106250](https://doi.org/10.1016/j.ssci.2023.106250)
+
+1. Apurwa Dhoke and **Pushpa Choudhary** (2023) Is there a relationship between time pressure and pedestrian non-compliance? A systematic review. *Transportation Research Part F: Traffic Psychology and Behaviour, 93, 68--89*. [DOI: 10.1016/j.trf.2023.01.001](https://doi.org/10.1016/j.trf.2023.01.001)
+2. Nektarios Karanikas and **Pushpa Choudhary** and Sergio A. Useche and Oscar Oviedo-Trespalacios (2023) Safety science special issue "safety in low- and middle-income countries". *Safety Science, No volume, 106250*. [DOI: 10.1016/j.ssci.2023.106250](https://doi.org/10.1016/j.ssci.2023.106250)
+3. **Pushpa Choudhary** and Kirti Mahajan and Nagendra R. Velaga and Ravi Shankar (2022) Modeling phone use prevalence and risk assessment among long-haul truck drivers in India. *IATSS Research, 46, 112--121*. [DOI: 10.1016/j.iatssr.2021.10.005](https://doi.org/10.1016/j.iatssr.2021.10.005)
+4. **Pushpa Choudhary** and Akshay Gupta and Nagendra R. Velaga (2022) Perceived risk vs actual driving performance during distracted driving: A comparative analysis of phone use and other secondary distractions. *Transportation Research Part F: Traffic Psychology and Behaviour, 86, 296--315*. [DOI: 10.1016/j.trf.2022.03.001](https://doi.org/10.1016/j.trf.2022.03.001)
+5. Digvijay S. Pawar and Ankit Kumar Yadav and **Pushpa Choudhary** and Nagendra R. Velaga (2021) Modelling work- and non-work-based trip patterns during transition to lockdown period of COVID-19 pandemic in India. *Travel Behaviour and Society, 24, 46--56*. [DOI: 10.1016/j.tbs.2021.02.002](https://doi.org/10.1016/j.tbs.2021.02.002)
+6. Akshay Gupta and **Pushpa Choudhary** and Manoranjan Parida (2021) Understanding and modelling risky driving behaviour on high-speed corridors. *Transportation Research Part F: Traffic Psychology and Behaviour, 82, 359--377*. [DOI: 10.1016/j.trf.2021.09.009](https://doi.org/10.1016/j.trf.2021.09.009)
+7. Aditi Meshram and **Pushpa Choudhary** and Nagendra R Velaga (2020) Assessing and Modelling Perceived Safety and Comfort of Women during Ridesharing. *Transportation Research Procedia, 48, 2852--2869*. [DOI: 10.1016/j.trpro.2020.08.233](https://doi.org/10.1016/j.trpro.2020.08.233)
+8. Nishant Mukund Pawar and Rashmeet Kaur Khanuja and **Pushpa Choudhary** and Nagendra R. Velaga (2020) Modelling braking behaviour and accident probability of drivers under increasing time pressure conditions. *Accident Analysis & Prevention, 136, 105401*. [DOI: 10.1016/j.aap.2019.105401](https://doi.org/10.1016/j.aap.2019.105401)
+9. R.B. Sharmila and Nagendra R. Velaga and **Pushpa Choudhary** (2020) Bus arrival time prediction and measure of uncertainties using survival models. *IET Intelligent Transport Systems, 14, 900--907*. [DOI: 10.1049/iet-its.2019.0584](https://doi.org/10.1049/iet-its.2019.0584)
+10. **Pushpa Choudhary** and Nagendra R. Velaga (2020) Impact of distraction on decision making at the onset of yellow signal. *Transportation Research Part C: Emerging Technologies, 118, 102741*. [DOI: 10.1016/j.trc.2020.102741](https://doi.org/10.1016/j.trc.2020.102741)
+11. **Pushpa Choudhary** and Nishant M. Pawar and Nagendra R. Velaga and Digvijay S. Pawar (2020) Overall performance impairment and crash risk due to distracted driving: A comprehensive analysis using structural equation modelling. *Transportation Research Part F: Traffic Psychology and Behaviour, 74, 120--138*. [DOI: 10.1016/j.trf.2020.08.018](https://doi.org/10.1016/j.trf.2020.08.018)
+12. **Pushpa Choudhary** and Nagendra R. Velaga (2019) Performance Degradation During Sudden Hazardous Events: A Comparative Analysis of Use of a Phone and a Music Player During Driving. *IEEE Transactions on Intelligent Transportation Systems, 20, 4055--4065*. [DOI: 10.1109/tits.2018.2879968](https://doi.org/10.1109/tits.2018.2879968)
+13. **Pushpa Choudhary** and Nagendra R. Velaga (2019) Effects of phone use on driving performance: A comparative analysis of young and professional drivers. *Safety Science, 111, 179--187*. [DOI: 10.1016/j.ssci.2018.07.009](https://doi.org/10.1016/j.ssci.2018.07.009)
+14. Kirti Mahajan and Nagendra R. Velaga and Akhilesh Kumar and Alok Choudhary and **Pushpa Choudhary** (2019) Effects of driver work-rest patterns, lifestyle and payment incentives on long-haul truck driver sleepiness. *Transportation Research Part F: Traffic Psychology and Behaviour, 60, 366--382*. [DOI: 10.1016/j.trf.2018.10.028](https://doi.org/10.1016/j.trf.2018.10.028)
+15. **Pushpa Choudhary** and Nagendra R. Velaga (2019) Driver behaviour at the onset of yellow signal: A comparative study of distraction caused by use of a phone and a music player. *Transportation Research Part F: Traffic Psychology and Behaviour, 62, 135--148*. [DOI: 10.1016/j.trf.2018.12.022](https://doi.org/10.1016/j.trf.2018.12.022)
+16. **Pushpa Choudhary** and Nagendra R. Velaga (2019) A comparative analysis of risk associated with eating, drinking and texting during driving at unsignalised intersections. *Transportation Research Part F: Traffic Psychology and Behaviour, 63, 295--308*. [DOI: 10.1016/j.trf.2019.04.023](https://doi.org/10.1016/j.trf.2019.04.023)
+17. **Pushpa Choudhary** and Nagendra R. Velaga (2019) Gap acceptance behavior at unsignalized intersections: Effects of using a phone and a music player while driving. *Traffic Injury Prevention, 20, 372--377*. [DOI: 10.1080/15389588.2019.1591619](https://doi.org/10.1080/15389588.2019.1591619)
+18. Kirti Mahajan and Nagendra R Velaga and Akhilesh Kumar and **Pushpa Choudhary** (2019) Effects of driver sleepiness and fatigue on violations among truck drivers in India. *International Journal of Injury Control and Safety Promotion, 26, 412--422*. [DOI: 10.1080/17457300.2019.1660375](https://doi.org/10.1080/17457300.2019.1660375)
+19. **Pushpa Choudhary** and Nagendra R. Velaga (2018) Effects of texting on accident risk during a sudden hazardous event: Analysis of predetection and postdetection phases. *Traffic Injury Prevention, 19, 806--811*. [DOI: 10.1080/15389588.2018.1517237](https://doi.org/10.1080/15389588.2018.1517237)
+20. **Pushpa Choudhary** and Marianna Imprialou and Nagendra R. Velaga and Alok Choudhary (2018) Impacts of speed variations on freeway crashes by severity and vehicle type. *Accident Analysis & Prevention, 121, 213--222*. [DOI: 10.1016/j.aap.2018.09.015](https://doi.org/10.1016/j.aap.2018.09.015)
+21. **Pushpa Choudhary** and Nagendra R. Velaga (2017) Analysis of vehicle-based lateral performance measures during distracted driving due to phone use. *Transportation Research Part F: Traffic Psychology and Behaviour, 44, 120--133*. [DOI: 10.1016/j.trf.2016.11.002](https://doi.org/10.1016/j.trf.2016.11.002)
+22. **Pushpa Choudhary** and Nagendra R. Velaga (2017) Modelling driver distraction effects due to mobile phone use on reaction time. *Transportation Research Part C: Emerging Technologies, 77, 351--365*. [DOI: 10.1016/j.trc.2017.02.007](https://doi.org/10.1016/j.trc.2017.02.007)
+23. **Pushpa Choudhary** and Nagendra R Velaga (2017) Mobile phone use during driving: Effects on speed and effectiveness of driver compensatory behaviour. *Accident Analysis & Prevention, 106, 370--378*. [DOI: 10.1016/j.aap.2017.06.021](https://doi.org/10.1016/j.aap.2017.06.021)
+>>>>>>> Stashed changes
 
 # Publications
 
