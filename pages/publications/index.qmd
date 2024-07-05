@@ -45,10 +45,6 @@ page-layout: article
 22. **Pushpa Choudhary** and Nagendra R. Velaga (2017) Modelling driver distraction effects due to mobile phone use on reaction time. *Transportation Research Part C: Emerging Technologies, 77, 351--365*. [DOI: 10.1016/j.trc.2017.02.007](https://doi.org/10.1016/j.trc.2017.02.007)
 23. **Pushpa Choudhary** and Nagendra R Velaga (2017) Mobile phone use during driving: Effects on speed and effectiveness of driver compensatory behaviour. *Accident Analysis & Prevention, 106, 370--378*. [DOI: 10.1016/j.aap.2017.06.021](https://doi.org/10.1016/j.aap.2017.06.021)
 
-# Publications
-
-{{< include _publication_list.qmd >}}
-
 # Conferences
 
 {{< include _conference_list.qmd >}}
