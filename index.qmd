@@ -88,7 +88,7 @@ The connected simulators can be operated individually or in a synchronised manne
 :::
 
 ::: {.g-col-3 .outline .row-150}
-![](/assets/research/eye22.JPG)
+![](/assets/research/eye22.jpg)
 :::
 
 ::: {.g-col-6 .justify}
