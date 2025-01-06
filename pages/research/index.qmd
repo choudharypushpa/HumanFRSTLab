@@ -1,6 +1,21 @@
 ---
 page-layout: article
 ---
+# Research Projects
+
+|Research Project|Sponser|Amount|Role|Year|
+|----------|--|---|--|----|
+|Development of Smart Assistive systems for Safer Road Crossing of Pedestrians in Smart Cities | iHub DivyaSampark| 17 Lakhs |PI |Jan 2025-Jan 2026|
+|Development of intelligent assistance systems for a safer crossing of at-risk pedestrians | CSIR| 30 Lakhs |PI |Jul 2024-Jul 2027|
+|Pedestrian safety in mixed traffic conditions: Probing executable solutions to enhance vulnerable road users’ safety using a pedestrian simulator | SERB|31.9 Lakhs |PI |Dec 2020-Jun 2023|
+|Comprehensive approach for crash risk assessment of highspeed corridors in India | SRIC, IITR| 20 Lakhs|PI  |Mar 2020-Mar 2023|
+|Understanding Human Factors in Transportation using a connected simulator set-up  | SRIC, IITR|180 lakhs|PI  |Mar 2022-Mar 2023|
+|Advanced Transport Modelling and Simulation for National Highways in India |IAHE|419 Lakhs|Co-PI|Jan 2022-Jun 2025|
+
+
+: {.table-striped .border .responsive .justify .small-font}
+
+<br>
 
 # Areas of Interests
 
@@ -106,16 +121,3 @@ page-layout: article
 
 <br>
 
-# Research Projects
-
-|Research Project|Sponser|Amount|Role|Year|
-|----------|--|---|--|----|
-|Development of Smart Assistive systems for Safer Road Crossing of Pedestrians in Smart Cities | iHub DivyaSampark| 17 Lakhs |PI |Jan 2025-Jan 2026|
-|Development of intelligent assistance systems for a safer crossing of at-risk pedestrians | CSIR| 30 Lakhs |PI |Jul 2024-Jul 2027|
-|Pedestrian safety in mixed traffic conditions: Probing executable solutions to enhance vulnerable road users’ safety using a pedestrian simulator | SERB|31.9 Lakhs |PI |Dec 2020-Jun 2023|
-|Comprehensive approach for crash risk assessment of highspeed corridors in India | SRIC, IITR| 20 Lakhs|PI  |Mar 2020-Mar 2023|
-|Understanding Human Factors in Transportation using a connected simulator set-up  | SRIC, IITR|180 lakhs|PI  |Mar 2022-Mar 2023|
-|Advanced Transport Modelling and Simulation for National Highways in India |IAHE|419 Lakhs|Co-PI|Jan 2022-Jun 2025|
-
-
-: {.table-striped .border .responsive .justify .small-font}
