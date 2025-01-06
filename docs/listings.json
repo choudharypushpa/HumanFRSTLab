@@ -3,16 +3,17 @@
     "listing": "/pages/team/index.html",
     "items": [
       "/pages/team/faculty/pushpa.html",
-      "/pages/team/phd/akshay.html",
       "/pages/team/phd/Vamshi.html",
       "/pages/team/phd/Apurwa.html",
       "/pages/team/phd/Shivam.html",
       "/pages/team/phd/Rakshita.html",
+      "/pages/team/phd/Mohit.html",
       "/pages/team/MTech/Abhishek.html",
       "/pages/team/MTech/Hamidi.html",
       "/pages/team/MTech/Rudra.html",
       "/pages/team/MTech/Rupesh.html",
-      "/pages/team/Previous/Adarsh.html"
+      "/pages/team/Previous/Adarsh.html",
+      "/pages/team/Previous/akshay.html"
     ]
   }
 ]

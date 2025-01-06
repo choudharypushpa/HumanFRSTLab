@@ -1,6 +1,6 @@
 ---
 title: "K Vamshi Krishna"
-categories: "Ph. D. Student"
+categories: "Ph. D. Students"
 tags: []
 pub_tag: "Vamshi"
 doj: 2020/08/01

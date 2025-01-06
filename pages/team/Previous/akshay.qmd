@@ -1,6 +1,6 @@
 ---
 title: "Akshay Gupta"
-categories: "Ph. D. Student"
+categories: "Former Ph. D. Students"
 tags: []
 pub_tag: "Akshay"
 image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Akshay.jpg"
@@ -18,8 +18,8 @@ about:
 
 :::{#hero-heading}
 
-**Topic:** Comprehensive approach for crash risk assessment for expressways <br>
-**Joined in** December, 2019<br>
+**Topic:** Driving behaviour assessment and safety analysis on expressways in India <br>
+**Completed in** August, 2024<br>
 **Co-Supervisor:** Prof Manoranjan Parida
 :::
 

@@ -110,6 +110,7 @@ page-layout: article
 
 |Research Project|Sponser|Amount|Role|Year|
 |----------|--|---|--|----|
+|Development of Smart Assistive systems for Safer Road Crossing of Pedestrians in Smart Cities | iHub DivyaSampark| 17 Lakhs |PI |Jan 2025-Jan 2026|
 |Development of intelligent assistance systems for a safer crossing of at-risk pedestrians | CSIR| 30 Lakhs |PI |Jul 2024-Jul 2027|
 |Pedestrian safety in mixed traffic conditions: Probing executable solutions to enhance vulnerable road users’ safety using a pedestrian simulator | SERB|31.9 Lakhs |PI |Dec 2020-Jun 2023|
 |Comprehensive approach for crash risk assessment of highspeed corridors in India | SRIC, IITR| 20 Lakhs|PI  |Mar 2020-Mar 2023|

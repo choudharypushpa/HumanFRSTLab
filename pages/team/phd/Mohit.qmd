@@ -1,10 +1,10 @@
 ---
-title: "Shivam Sharma"
+title: "Mohit Kumar Thakrey"
 categories: "Ph. D. Students"
 tags: []
-pub_tag: "Shivam"
-doj: 2022/07/01
-image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Shivam.jpg"
+pub_tag: "Mohit"
+doj: 2024/07/11
+image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Mohit.jpg"
 about:
   id: hero-heading
   # links:
@@ -17,7 +17,7 @@ about:
 ---
 
 :::{#hero-heading}
-**Topic:** Understanding driving performance on hilly roads
- <br>
-**Joined in** July, 2022
+**Topic:** To be decided  <br>
+**Joined in** July, 2024
 :::
+

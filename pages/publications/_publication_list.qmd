@@ -1,6 +1,30 @@
-<!-- Write list of publications in the following format: -->
+1. Kudurupaka Vamshi Krishna and **Pushpa Choudhary** (2025) Unravelling situational awareness of multi-tasking pedestrians through average gaze fixation durations: An accelerated failure time modelling approach *Accident Analysis & Prevention, 211*, p.107912  DOI: [https://doi.org/10.1016/j.aap.2024.107912]( https://doi.org/10.1016/j.aap.2024.107912)
 
-1. Apurwa Dhoke and **Pushpa Choudhary** (2023), Temporal and Spatial Compliance Behaviour of Pedestrians Under the Influence of Time Pressure at Signalized Intersections: A Pedestrian Simulator Study, Journal of Traffic and Transportation Engineering (English Edition), (Accepted)
+2. Adarsh Yadav, Manoranjan Parida, **Pushpa Choudhary**, Brind Kumar (2025). Modelling traffic noise-induced annoyance at intersections and its association with psychological health *Transportation Research Part D: Transport and Environment, 139* , p.104568  DOI: [https://doi.org/10.1016/j.trd.2024.104568]( https://doi.org/10.1016/j.trd.2024.104568)
+
+3. Akshay Gupta, **Pushpa Choudhary**, and Manoranjan Parida., (2024). Unveiling gap acceptance behaviour during lane change with EDIV data: A deep dive into driving behaviour on expressway using a three level mixed effect linear regression approach. *IATSS Research, 48*(3), pp.395-416. DOI:[https://doi.org/10.1016/j.iatssr.2024.07.003] (https://doi.org/10.1016/j.iatssr.2024.07.003)
+
+4. Akshay Gupta, **Pushpa Choudhary**, and Manoranjan Parida (2024), Analyzing Lane Change Execution Behaviour on Expressway Using an Instrumented Vehicle: A Random Effect Accelerated Failure Time Approach *IEEE Transactions on Intelligent Transportation Systems* DOI: [10.1109/TITS.2024.3436569] (https://ieeexplore.ieee.org/document/10623845) 
+
+5. Akshay Gupta, **Pushpa Choudhary**, and Manoranjan Parida (2024). Development of Real-Time Lane Departure Warning System For varying severity levels Using Sparse 3D-LiDAR Sensor, *Transportation Research Record* DOI:[ https://doi.org/10.1177/036119812412777] (https://doi.org/10.1177/036119812412777)
+
+1. Akshay Gupta, Shreyansh Jain, **Pushpa Choudhary**, and Manoranjan Parida. (2024). Dynamic object detection using sparse LiDAR data for autonomous machine driving and road safety applications. *Expert Systems with Applications, 225*, 124636. DOI: [10.1016/j.eswa.2024.124636](https://doi.org/10.1016/j.eswa.2024.124636)
+
+2. Rupesh Kumar Yadav, Akshay Gupta, **Pushpa Choudhary**, and Manoranjan Parida. (2024). Enhancing urban mobility: comparative analysis of improvement priorities for conventional and electric buses in Kathmandu city. *Sustainable Transport and Livability, 1*(1), 2347389. DOI: [10.1080/29941849.2024.2347389](https://doi.org/10.1080/29941849.2024.2347389)
+
+1. Akshay Gupta, **Pushpa Choudhary**, and Manoranjan Parida. (2024). Examining risky driving behaviours: A comparative analysis of SUVs and other car types. *Transport Policy, 152*, 9--20. DOI: [10.1016/j.tranpol.2024.04.012](https://doi.org/10.1016/j.tranpol.2024.04.012)
+
+3. Apurwa Dhoke and **Pushpa Choudhary** (2024), Temporal and Spatial Compliance Behaviour of Pedestrians Under the Influence of Time Pressure at Signalized Intersections: A Pedestrian Simulator Study, *Journal of Traffic and Transportation Engineering (English Edition), 11*(1), 55--68. DOI: [10.1016/j.jtte.2023.04.010](https://doi.org/10.1016/j.jtte.2023.04.010)
+
+
+4. Adarsh Yadav, Manoranjan Parida, **Pushpa Choudhary**, Brind Kumar, and Daljeet Singh. (2024). Traffic noise modelling at intersections in mid-sized cities: an artificial neural network approach. *Environmental Monitoring and Assessment, 196*(4), 396. DOI: [10.1007/s10661-024-12547-9](https://doi.org/10.1007/s10661-024-12547-9)
+
+5. Adarsh Yadav, Manoranjan Parida, **Pushpa Choudhary**,  Brind Kumar, and Daljeet Singh (2024). Investigating important and necessary conditions to analyse traffic noise levels at intersections in mid-sized cities. *Journal of Environmental Management, 355*, 120515. DOI: [10.1016/j.jenvman.2024.120515](https://doi.org/10.1016/j.jenvman.2024.120515)
+
+6. Kudurupaka Vamshi Krishna, Rudra Kapruwan, and **Pushpa Choudhary** (2024). Understanding distracted pedestrians’ risky behaviour: The role of walking and visual characteristics through a field study. *Transportation Research Part F: Traffic Psychology and Behaviour, 101*, 111-129. DOI: [10.1016/j.trf.2024.01.003](https://doi.org/10.1016/j.trf.2024.01.003)
+
+7. Nektarios Karanikas,  **Pushpa Choudhary**, Sergio A.Useche, and Oscar Oviedo-Trespalacios (2023). Safety science special issue “safety in low-and middle-income countries”. *Safety Science*. DOI: [10.1016/j.ssci.2023.106250](https://doi.org/10.1016/j.ssci.2023.106250)
+
 1. Apurwa Dhoke and **Pushpa Choudhary** (2023) Is there a relationship between time pressure and pedestrian non-compliance? A systematic review. *Transportation Research Part F: Traffic Psychology and Behaviour, 93, 68--89*. [DOI: 10.1016/j.trf.2023.01.001](https://doi.org/10.1016/j.trf.2023.01.001)
 2. Nektarios Karanikas and **Pushpa Choudhary** and Sergio A. Useche and Oscar Oviedo-Trespalacios (2023) Safety science special issue "safety in low- and middle-income countries". *Safety Science, No volume, 106250*. [DOI: 10.1016/j.ssci.2023.106250](https://doi.org/10.1016/j.ssci.2023.106250)
 3. **Pushpa Choudhary** and Kirti Mahajan and Nagendra R. Velaga and Ravi Shankar (2022) Modeling phone use prevalence and risk assessment among long-haul truck drivers in India. *IATSS Research, 46, 112--121*. [DOI: 10.1016/j.iatssr.2021.10.005](https://doi.org/10.1016/j.iatssr.2021.10.005)

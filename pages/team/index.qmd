@@ -21,8 +21,9 @@ listing:
 
   - id: MTech
     contents: "MTech"
-    type: grid
+    type: table
     filter-ui: false
+    fields: [Title, Topic, Passing year, Co-supervisor]
 
   - id: Previous
     contents: "Previous"
