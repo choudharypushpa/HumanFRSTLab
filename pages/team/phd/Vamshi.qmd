@@ -7,6 +7,8 @@ doj: 2020/08/01
 image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Vamshi.JPG"
 about:
   id: hero-heading
+  template: solana
+  image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Vamshi.JPG"
   # links:
   #   - icon: book
   #     text: Google Scholar
@@ -17,8 +19,8 @@ about:
 ---
 
 :::{#hero-heading}
-**Topic:** Behavioural assessment of distracted pedestrians at different crossing facilities
- <br>
-**Joined in** August, 2020
+**Topic:** Behavioural assessment of distracted pedestrians at different crossing facilities <br>
+**Joined in** August, 2020 <br>
+**Institute:** IIT Roorkee <br>
 :::
 

@@ -1,24 +1,18 @@
 ---
 title: "Apurwa Dhoke"
-categories: "Ph. D. Student"
+categories: "Ph. D. Students"
 tags: []
 pub_tag: "Apurwa"
 doj: 2021/02/01
 image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Apurwa.jpg"
 about:
   id: hero-heading
-  # links:
-  #   - icon: book
-  #     text: Google Scholar
-  #     href: https://scholar.google.com/
-  #   - icon: linkedin
-  #     text: LinkedIn
-  #     href: https://linkedin.com
+  template: solana
+  image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Apurwa.jpg"
 ---
 
 :::{#hero-heading}
-**Topic:** Exploring pedestrian crossing behavior under various time pressure
-conditions
- <br>
-**Joined in** February, 2021
+**Topic:** Exploring pedestrian crossing behavior under various time pressure conditions <br>
+**Joined in** February, 2021 <br>
+**Institute** : IIT Roorkee <br>
 :::

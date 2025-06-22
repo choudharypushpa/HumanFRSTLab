@@ -7,6 +7,8 @@ doj: 2023/07/01
 image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Rakshita.jpg"
 about:
   id: hero-heading
+  template: solana
+  image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Rakshita.jpg"
   # links:
   #   - icon: book
   #     text: Google Scholar
@@ -17,9 +19,10 @@ about:
 ---
 
 :::{#hero-heading}
-**Topic:** Understanding Cyclist's behaviour under mixed traffic conditions
- <br>
-**Joined in** July, 2023
+**Topic:** Understanding Cyclist's behaviour under mixed traffic conditions <br>
+**Joined in** July, 2023 <br>
+**Institute:** IIT Roorkee <br>
+**Co-Supervisor:** Prof. Indrajit Ghosh <br>
 
 :::
 

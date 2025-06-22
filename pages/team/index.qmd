@@ -18,6 +18,7 @@ listing:
     sort: "doj"
     type: grid
     filter-ui: false
+    fields: [image, title, description]
 
   - id: MTech
     contents: "MTech"

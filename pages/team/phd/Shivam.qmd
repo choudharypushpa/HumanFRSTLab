@@ -7,6 +7,8 @@ doj: 2022/07/01
 image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Shivam.jpg"
 about:
   id: hero-heading
+  template: solana
+  image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Shivam.jpg"
   # links:
   #   - icon: book
   #     text: Google Scholar
@@ -17,7 +19,8 @@ about:
 ---
 
 :::{#hero-heading}
-**Topic:** Understanding driving performance on hilly roads
- <br>
-**Joined in** July, 2022
+**Topic:** Understanding driving performance on hilly roads <br>
+**Joined in** July, 2022 <br>
+**Institute:** IIT Roorkee <br>
+**Co-Supervisor:** Prof. Sanhita Das
 :::

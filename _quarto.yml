@@ -14,8 +14,8 @@ website:
         href: pages/publications/index.qmd
       - text: "Contact"
         href: pages/contact.qmd
-      - text: "Opportunities"
-        href: pages/opportunities.qmd
+      # - text: "Opportunities"
+      #   href: pages/opportunities.qmd
     # right:
       # - icon: github
       #   href: https://github.com/
@@ -23,9 +23,10 @@ website:
       #     href: https://twitter.com
   page-footer:
     center:
-      - text: "<span><span>Proudly supported by</span></span>"
-      - text: "![](/assets/misc/iitr_logo.png){fig-alt='IIT Roorkee' height=50px}<br>IIT Roorkee"
-        href: https://iitr.ac.in/
+      - text: ""
+      # - text: "<span><span>Proudly supported by</span></span>"
+      # - text: "![](/assets/misc/iitr_logo.png){fig-alt='IIT Roorkee' height=50px}<br>IIT Roorkee"
+      #   href: https://iitr.ac.in/
       # - text: "![](/assets/misc/serb_logo.png){fig-alt='SERB' height=50px}<br>SERB"
       #   href: https://serb.gov.in/
     # center:

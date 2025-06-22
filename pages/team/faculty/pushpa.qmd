@@ -1,15 +1,15 @@
 ---
 title: "Dr. Pushpa Choudhary"
-image: https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Pushpa.jpg
 categories: "Faculty"
 tags: []
 pub_tag: "pushpa"
-
+image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Pushpa.jpg"
 about:
+  template: solana
   links:
     - icon: person
       text: Institute Page
-      href: https://civil.iitr.ac.in/CE?Uid=pushpafce
+      href: "https://ce.iiti.ac.in/faculty.php"
     - icon: person
       text: ORCID
       href: https://orcid.org/0000-0003-4217-0705
@@ -18,15 +18,16 @@ about:
       href: https://scholar.google.co.in/citations?user=unUZoZAAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/pushpa-choudhary-350b5aa1/
+      href: https://www.linkedin.com/in/pushpa-choudhary-350b5aa1
 ---
+
+
 :::{#hero-heading}
 Assitant Professor,<br>
 Transportation Engineering,<br>
 Civil Engineering Department,<br>
-Indian Institute of Technology Roorkee, Rookee-247667, India <br>
-Email: <pushpa.fce@iitr.ac.in>, <pushpa@ce.iitr.ac.in> <br>
-Phone: (+91) 01332-28-4925(O), (+91) 01332-28-6925 (R)
+Indian Institute of Technology Indore, Simrol-453552, India <br>
+Email: <pushpa@iiti.ac.in>
 :::
 
 ## Research Interests
@@ -40,7 +41,8 @@ Phone: (+91) 01332-28-4925(O), (+91) 01332-28-6925 (R)
 
 | Organisation | Designation | Period |
 |----|--|--|
-| Indian Institute of Technology Roorkee | Assistant Professor | Oct 2019 - Present |
+| Indian Institute of Technology Indore | Assistant Professor | Jun 2025 - Present |
+| Indian Institute of Technology Roorkee | Assistant Professor | Oct 2019 - Jun 2025 |
 | Indian Institute of Technology Bombay  | Research Associate | May 2019 - Sep 2019 |
 
 : {.table-striped .border .responsive .justify .small-font}
@@ -74,7 +76,6 @@ Phone: (+91) 01332-28-4925(O), (+91) 01332-28-6925 (R)
 |Pedestrian safety in mixed traffic conditions: Probing executable solutions to enhance vulnerable road users’ safety using a pedestrian simulator | SERB|31.9 Lakhs |PI |Dec 2020-Jun 2023|
 |Comprehensive approach for crash risk assessment of highspeed corridors in India | SRIC, IITR| 20 Lakhs|PI  |Mar 2020-Mar 2023|
 |Understanding Human Factors in Transportation using a connected simulator set-up  | SRIC, IITR|180 lakhs|PI  |Mar 2022-Mar 2023|
-|Advanced Transport Modelling and Simulation for National Highways in India |IAHE|419 Lakhs|Co-PI|Jan 2022-Jun 2025|
 
 : {.table-striped .border .responsive .justify .small-font}
 

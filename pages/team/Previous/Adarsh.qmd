@@ -7,13 +7,8 @@ doj: 2018/12/01
 image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Adarsh.jpg"
 about:
   id: hero-heading
-  links:
-    - icon: book
-      text: Google Scholar
-      href: https://scholar.google.com/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+  template: solana
+  image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Adarsh.jpg"
 ---
 
 :::{#hero-heading}

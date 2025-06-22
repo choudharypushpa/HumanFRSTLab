@@ -7,6 +7,8 @@ doj: 2024/07/11
 image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Mohit.jpg"
 about:
   id: hero-heading
+  template: solana
+  image: "https://choudharypushpa.github.io/HumanFRSTLab/assets/team/Mohit.jpg"
   # links:
   #   - icon: book
   #     text: Google Scholar
@@ -18,6 +20,8 @@ about:
 
 :::{#hero-heading}
 **Topic:** To be decided  <br>
-**Joined in** July, 2024
+**Joined in** July, 2024 <br>
+**Institute:** IIT Roorkee <br>
+**Co-Supervisor:** Prof. Indrajit Ghosh
 :::
 

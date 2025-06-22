@@ -3,11 +3,5 @@ toc: true
 toc-title: Contents
 toc-location: right
 page-layout: article
-
 image: https://choudharypushpa.github.io/HumanFRSTLab/assets/team/default.png
-about:
-  id: hero-heading
-  template: solana
-  image-shape: rounded
-  # image-width: 15em
 
